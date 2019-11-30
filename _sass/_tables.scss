@@ -15,9 +15,17 @@ table {
   }
 }
 
+table.no-border {
+  border: none;
+}
+
 thead {
   background-color: $lighter-gray;
   border-bottom: 1px solid $light-gray;
+}
+
+table.no-border thead {
+  border-bottom: none;
 }
 
 th {
@@ -27,10 +35,19 @@ th {
   border-right: 1px solid $light-gray;
 }
 
+table.no-border th {
+  border-right: none;
+}
+
 td {
   padding: 0.5em;
   border-bottom: 1px solid $light-gray;
   border-right: 1px solid $light-gray;
+}
+
+table.no-border td {
+  border-bottom: none;
+  border-right: none;
 }
 
 tr, td, th {
