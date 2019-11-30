@@ -21,7 +21,7 @@ My research interests include, but not limited to: machine learning, reinforceme
         <img src="/images/publications/emi_thumbnail.png" />
       </td>
       <td width="70%">
-        <strong>EMI: Exploration with Mutual Information</strong>
+        <strong class="inner-title">EMI: Exploration with Mutual Information</strong>
         <br/>
         Hyoungseok Kim*, <strong>Jaekyeom Kim*</strong>, Yeonwoo Jeong, Sergey Levine, Hyun Oh Song (<strong>*equal contribution</strong>)
         <br/>
