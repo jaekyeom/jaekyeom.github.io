@@ -26,6 +26,11 @@ My research interests include, but not limited to: machine learning, reinforceme
         Hyoungseok Kim*, <strong>Jaekyeom Kim*</strong>, Yeonwoo Jeong, Sergey Levine, Hyun Oh Song (<strong>*equal contribution</strong>)
         <br/>
         <i>ICML 2019 (Long talk)</i>
+        <br/>
+        <a href="http://proceedings.mlr.press/v97/kim19a/kim19a.pdf">[paper]</a>
+        <a href="http://proceedings.mlr.press/v97/kim19a/kim19a-supp.pdf">[supp]</a>
+        <a href="https://www.videoken.com/embed/v-W4JSWUX28?tocitem=61">[talk]</a>
+        <a href="https://github.com/snu-mllab/EMI">[code]</a>
       </td>
     </tr>
   </tbody>
