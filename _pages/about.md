@@ -14,7 +14,7 @@ My research interests include, but not limited to: machine learning, reinforceme
 
 ## Publications
 
-<table>
+<table class="no-border">
   <tbody>
     <tr>
       <td width="30%">
