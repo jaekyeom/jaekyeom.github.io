@@ -18,7 +18,7 @@ My research interests include, but not limited to: machine learning, reinforceme
   <tbody>
     <tr>
       <td width="30%">
-        <img src="/images/publications/emi_thumbnail.png" />
+        <img src="/images/publications/emi_thumbnail.jpg" />
       </td>
       <td width="70%">
         <strong class="inner-title">EMI: Exploration with Mutual Information</strong>
