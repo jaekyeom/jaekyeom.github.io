@@ -21,11 +21,11 @@ My research interests include, but not limited to: machine learning, reinforceme
         <img src="/images/publications/emi_thumbnail.jpg" />
       </td>
       <td width="70%">
-        <strong class="inner-title">EMI: Exploration with Mutual Information</strong>
+        <span class="inner-title">EMI: Exploration with Mutual Information</span>
         <br/>
         Hyoungseok Kim*, <strong>Jaekyeom Kim*</strong>, Yeonwoo Jeong, Sergey Levine, Hyun Oh Song (<strong>*equal contribution</strong>)
         <br/>
-        <i>ICML 2019 (Long talk)</i>
+        <i><strong>ICML 2019 (Long talk)</strong></i>
         <br/>
         <a href="http://proceedings.mlr.press/v97/kim19a/kim19a.pdf">[paper]</a>
         <a href="http://proceedings.mlr.press/v97/kim19a/kim19a-supp.pdf">[supp]</a>
