@@ -18,6 +18,18 @@ My research interests include, but not limited to: machine learning, reinforceme
   <tbody>
     <tr>
       <td width="30%">
+      </td>
+      <td width="70%">
+        <span class="inner-title">Model-Agnostic Boundary-Adversarial Sampling for Test-Time Generalization in Few-Shot learning</span>
+        <br/>
+        <strong>Jaekyeom Kim</strong>, Hyoungseok Kim, Gunhee Kim
+        <br/>
+        <i><strong>ECCV 2020 (Oral)</strong></i>
+        <br/>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%">
         <img src="/images/publications/emi_thumbnail.jpg" />
       </td>
       <td width="70%">
