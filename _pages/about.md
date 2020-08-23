@@ -29,7 +29,7 @@ My research interests include, but not limited to: machine learning, reinforceme
         <br/>
         <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460579.pdf">[paper]</a>
         <a href="https://drive.google.com/uc?id=1LhdzmuHBxOOoxrJYf9nR4pVOTOhyX_K4">[appx]</a>
-        <a href="https://papers.eccv2020.eu/paper/2307/">[talk]</a>
+        [talk]
         <a href="https://github.com/jaekyeom/MABAS">[code]</a>
         <br/>
       </td>
