@@ -18,6 +18,20 @@ My research interests include, but not limited to: machine learning, reinforceme
   <tbody>
     <tr>
       <td width="30%">
+      </td>
+      <td width="70%">
+        <span class="inner-title">Drop-Bottleneck: Learning Discrete Compressed Representation for Noise-Robust Exploration</span>
+        <br/>
+        <strong>Jaekyeom Kim</strong>, Minjung Kim, Dongyeon Woo, Gunhee Kim
+        <br/>
+        <i><strong>ICLR 2021</strong></i>
+        <br/>
+        <a href="https://openreview.net/pdf?id=1rxHOBjeDUW">[paper]</a>
+        <br/>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%">
         <img src="/images/publications/mabas_thumbnail.jpg" />
       </td>
       <td width="70%">
