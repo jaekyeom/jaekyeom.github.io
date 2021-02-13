@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a MS/PhD student in [Computer Science and Engineering](https://cse.snu.ac.kr/en) at [Seoul National University](http://en.snu.ac.kr/), and working in [Vision & Learning Lab](http://vision.snu.ac.kr/) (advisor: Professor [Gunhee Kim](http://vision.snu.ac.kr/~gunhee/) and Professor [Hyun Oh Song](http://mllab.snu.ac.kr/hyunoh/)). I did my undergraduate studies at [Korea Advanced Institute of Science and Technology](http://www.kaist.edu/).
+Hello! I am a MS/PhD student in [Computer Science and Engineering](https://cse.snu.ac.kr/en) at [Seoul National University](http://en.snu.ac.kr/), and working in [Vision & Learning Lab](http://vision.snu.ac.kr/)
 
-My research interests include, but not limited to: machine learning, reinforcement learning, and domain adaptation.
+My research interests include, but not limited to: information-theoretic approaches to reinforcement learning and domain adaptation.
 
 ## Education
 
