@@ -23,7 +23,7 @@ My research interests include, but not limited to: information-theoretic approac
 
 ## Publications
 
-<table class="no-border">
+<table class="no-border" style="border-spacing: 0 1em">
   <tbody>
     <tr>
       <td width="30%">
@@ -76,3 +76,5 @@ My research interests include, but not limited to: information-theoretic approac
     </tr>
   </tbody>
 </table>
+
+
