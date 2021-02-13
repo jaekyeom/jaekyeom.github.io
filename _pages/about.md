@@ -12,6 +12,15 @@ Hello! I am a MS/PhD student in [Computer Science and Engineering](https://cse.s
 
 My research interests include, but not limited to: machine learning, reinforcement learning, and domain adaptation.
 
+## Education
+
+* [Seoul National University (SNU)](http://en.snu.ac.kr/): *Mar. 2018 - Present*
+  * **M.S./Ph.D.** student in [Computer Science and Engineering](https://cse.snu.ac.kr/en)
+  * Advisor: Professor [Gunhee Kim](http://vision.snu.ac.kr/~gunhee/) and Professor [Hyun Oh Song](http://mllab.snu.ac.kr/hyunoh/)
+* [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/): *Feb. 2010 - Jun. 2017*
+  * **B.S.** in [Computer Science](https://cs.kaist.ac.kr/)
+  * Graduated summa cum laude
+
 ## Publications
 
 <table class="no-border">
