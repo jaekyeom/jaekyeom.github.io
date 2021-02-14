@@ -77,4 +77,11 @@ My research interests include, but not limited to: information-theoretic approac
   </tbody>
 </table>
 
+## Honors & Awards
 
+* [Samsung Humantech Paper Award](https://humantech.samsung.com/saitext/index.jsp) - Silver Prize in Signal Processing division (*Samsung*, Feb. 2021)
+* [Qualcomm Innovation Fellowship Korea](https://www.qualcomm.com/research/research/university-relations/innovation-fellowship/2020-south-korea) (*Qualcomm AI Research*, Dec. 2020)
+* [On-Dream Outstanding Scholar Award](https://www.cmkfoundation-scholarship.org/) (*Hyundai Motor Chung Mong-Koo Foundation*, Dec. 2020)
+* [On-Dream Future Talent Graduate Scholarship](https://www.cmkfoundation-scholarship.org/) (*Hyundai Motor Chung Mong-Koo Foundation*, Jul. 2020)
+* [Kwanjeong Domestic Scholarship](http://www.ikef.or.kr/) (*Kwanjeong Educational Foundation*, Apr. 2018)
+* Summa Cum Laude Honor (*Korea Advanced Institute of Science and Technology*, Feb. 2018)
