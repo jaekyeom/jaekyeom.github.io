@@ -79,9 +79,9 @@ My research interests include, but not limited to: information-theoretic approac
 
 ## Honors & Awards
 
-* [Samsung Humantech Paper Award](https://humantech.samsung.com/saitext/index.jsp) - Silver Prize in Signal Processing <sub>(*Feb. 2021*, Samsung)</sub>
-* [Qualcomm Innovation Fellowship Korea](https://www.qualcomm.com/research/research/university-relations/innovation-fellowship/2020-south-korea) <sub>(*Dec. 2020*, Qualcomm AI Research)</sub>
-* [On-Dream Outstanding Scholar Award](https://www.cmkfoundation-scholarship.org/) <sub>(*Dec. 2020*, Hyundai Motor Chung Mong-Koo Foundation)</sub>
-* [On-Dream Future Talent Graduate Scholarship](https://www.cmkfoundation-scholarship.org/) <sub>(*Jul. 2020*, Hyundai Motor Chung Mong-Koo Foundation)</sub>
-* [Kwanjeong Domestic Scholarship](http://www.ikef.or.kr/) <sub>(*Apr. 2018*, Kwanjeong Educational Foundation)</sub>
-* Summa Cum Laude Honor <sub>(*Feb. 2018*, Korea Advanced Institute of Science and Technology)</sub>
+* [Samsung Humantech Paper Award](https://humantech.samsung.com/saitext/index.jsp) - Silver Prize in Signal Processing <small>(*Feb. 2021*, Samsung)</small>
+* [Qualcomm Innovation Fellowship Korea](https://www.qualcomm.com/research/research/university-relations/innovation-fellowship/2020-south-korea) <small>(*Dec. 2020*, Qualcomm AI Research)</small>
+* [On-Dream Outstanding Scholar Award](https://www.cmkfoundation-scholarship.org/) <small>(*Dec. 2020*, Hyundai Motor Chung Mong-Koo Foundation)</small>
+* [On-Dream Future Talent Graduate Scholarship](https://www.cmkfoundation-scholarship.org/) <small>(*Jul. 2020*, Hyundai Motor Chung Mong-Koo Foundation)</small>
+* [Kwanjeong Domestic Scholarship](http://www.ikef.or.kr/) <small>(*Apr. 2018*, Kwanjeong Educational Foundation)</small>
+* Summa Cum Laude Honor <small>(*Feb. 2018*, Korea Advanced Institute of Science and Technology)</small>
