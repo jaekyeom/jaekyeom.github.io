@@ -44,7 +44,7 @@ My research interests include, but not limited to: information-theoretic approac
         <img src="/images/publications/mabas_thumbnail.jpg" />
       </td>
       <td width="70%">
-        <span class="inner-title">Model-Agnostic Boundary-Adversarial Sampling for Test-Time Generalization in Few-Shot learning</span>
+        <span class="inner-title">Model-Agnostic Boundary-Adversarial Sampling for Test-Time Generalization in Few-Shot Learning</span>
         <br/>
         <strong>Jaekyeom Kim</strong>, Hyoungseok Kim, Gunhee Kim
         <br/>
