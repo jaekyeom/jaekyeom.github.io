@@ -16,7 +16,7 @@ My research interests include, but not limited to: information-theoretic approac
 
 * [Seoul National University (SNU)](http://en.snu.ac.kr/) <small>(*Mar. 2018 - Present*)</small>
   * **M.S./Ph.D.** student in [Computer Science and Engineering](https://cse.snu.ac.kr/en)
-  * Advisor: Professor [Gunhee Kim](http://vision.snu.ac.kr/~gunhee/) and Professor [Hyun Oh Song](http://mllab.snu.ac.kr/hyunoh/)
+  * Advisor: Professor [Gunhee Kim](http://vision.snu.ac.kr/gunhee/) and Professor [Hyun Oh Song](http://mllab.snu.ac.kr/hyunoh/)
 * [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) <small>(*Feb. 2010 - Jun. 2017*)</small>
   * **B.S.** in [Computer Science](https://cs.kaist.ac.kr/)
   * Graduated summa cum laude
