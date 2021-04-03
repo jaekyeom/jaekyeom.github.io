@@ -27,6 +27,7 @@ My research interests include, but not limited to: information-theoretic approac
   <tbody>
     <tr>
       <td width="30%">
+        <img src="/images/publications/db_thumbnail.jpg" />
       </td>
       <td width="70%">
         <span class="inner-title">Drop-Bottleneck: Learning Discrete Compressed Representation for Noise-Robust Exploration</span>
