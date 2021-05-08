@@ -27,6 +27,19 @@ My research interests include, but not limited to: better generalization and ada
   <tbody>
     <tr>
       <td width="30%">
+      </td>
+      <td width="70%">
+        <span class="inner-title">Unsupervised Skill Discovery with Bottleneck Option Learning</span>
+        <br/>
+        <strong>Jaekyeom Kim*</strong>, Seohong Park*, Gunhee Kim (<strong>*equal contribution</strong>)
+        <br/>
+        <i><strong>ICML 2021</strong> (to appear)</i>
+        <br/>
+        <br/>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%">
         <img src="/images/publications/db_thumbnail.jpg" />
       </td>
       <td width="70%">
