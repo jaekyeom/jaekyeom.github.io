@@ -10,7 +10,7 @@ locale                   : "en-US"
 #title                    : "Your Name / Site Title"
 title                    : "Jaekyeom Kim"
 title_separator          : "-"
-name                     : &name "Jaekyeom Kim\n(김재겸)"
+name                     : &name "Jaekyeom Kim"
 description              : &description "Graduate student at SNU Vision & Learning Lab"
 url                      : https://jaekyeom.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jaekyeom Kim"
+  name             : "Jaekyeom Kim\n(김재겸)"
   #avatar           : "profile_jaekyeom.png"
   #avatar           : "profile_jaekyeom3.jpg"
   avatar           : "profile_jaekyeom3_small.jpg"
