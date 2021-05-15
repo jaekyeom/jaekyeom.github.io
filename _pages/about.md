@@ -51,6 +51,7 @@ My research interests include, but not limited to: better generalization and ada
         <br/>
         <a href="https://openreview.net/pdf?id=1rxHOBjeDUW">[paper]</a>
         <a href="https://arxiv.org/abs/2103.12300">[arxiv]</a>
+        <a href="https://iclr.cc/virtual/2021/poster/3127">[talk]</a>
         <a href="https://github.com/jaekyeom/drop-bottleneck">[code]</a>
         <br/>
       </td>
