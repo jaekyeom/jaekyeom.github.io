@@ -35,6 +35,8 @@ My research interests include, but not limited to: better generalization and ada
         <br/>
         <i><strong>ICML 2021</strong> (to appear)</i>
         <br/>
+        <a href="https://arxiv.org/abs/2106.14305">[arxiv]</a>
+        <a href="https://vision.snu.ac.kr/projects/ibol">[code]</a>
         <br/>
       </td>
     </tr>
@@ -52,7 +54,7 @@ My research interests include, but not limited to: better generalization and ada
         <a href="https://openreview.net/pdf?id=1rxHOBjeDUW">[paper]</a>
         <a href="https://arxiv.org/abs/2103.12300">[arxiv]</a>
         <a href="https://iclr.cc/virtual/2021/poster/3127">[talk]</a>
-        <a href="https://github.com/jaekyeom/drop-bottleneck">[code]</a>
+        <a href="https://vision.snu.ac.kr/projects/db">[code]</a>
         <br/>
       </td>
     </tr>
@@ -70,7 +72,7 @@ My research interests include, but not limited to: better generalization and ada
         <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460579.pdf">[paper]</a>
         <a href="https://drive.google.com/uc?id=1LhdzmuHBxOOoxrJYf9nR4pVOTOhyX_K4">[appx]</a>
         <a href="https://www.youtube.com/watch?v=XueZpAMsaOU">[talk]</a>
-        <a href="https://github.com/jaekyeom/MABAS">[code]</a>
+        <a href="https://vision.snu.ac.kr/projects/mabas">[code]</a>
         <br/>
       </td>
     </tr>
