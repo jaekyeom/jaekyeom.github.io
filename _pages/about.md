@@ -91,8 +91,8 @@ My research interests include, but not limited to: better generalization and ada
         <i><strong>ICML 2019 (Long talk)</strong></i>
         <br/>
         <a href="http://proceedings.mlr.press/v97/kim19a/kim19a.pdf">[paper]</a>
-        <a href="https://arxiv.org/abs/1810.01176">[arxiv]</a>
         <a href="http://proceedings.mlr.press/v97/kim19a/kim19a-supp.pdf">[supp]</a>
+        <a href="https://arxiv.org/abs/1810.01176">[arxiv]</a>
         <a href="https://www.videoken.com/embed/v-W4JSWUX28?tocitem=61">[talk]</a>
         <a href="https://github.com/snu-mllab/EMI">[code]</a>
       </td>
