@@ -33,9 +33,12 @@ My research interests include, but not limited to: better generalization and ada
         <br/>
         <strong>Jaekyeom Kim*</strong>, Seohong Park*, Gunhee Kim (<strong>*equal contribution</strong>)
         <br/>
-        <i><strong>ICML 2021</strong> (to appear)</i>
+        <i><strong>ICML 2021</strong></i>
         <br/>
+        <a href="http://proceedings.mlr.press/v139/kim21j/kim21j.pdf">[paper]</a>
+        <a href="http://proceedings.mlr.press/v139/kim21j/kim21j-supp.pdf">[appx]</a>
         <a href="https://arxiv.org/abs/2106.14305">[arxiv]</a>
+        <a href="https://icml.cc/virtual/2021/spotlight/8532">[talk]</a>
         <a href="https://vision.snu.ac.kr/projects/ibol">[code]</a>
         <br/>
       </td>
