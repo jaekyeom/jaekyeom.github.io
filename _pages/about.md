@@ -27,6 +27,7 @@ My research interests are mainly in reinforcement learning (including, but not l
   <tbody>
     <tr>
       <td width="30%">
+        <img src="/images/publications/ibol_thumbnail.jpg" />
       </td>
       <td width="70%">
         <span class="inner-title">Unsupervised Skill Discovery with Bottleneck Option Learning</span>
