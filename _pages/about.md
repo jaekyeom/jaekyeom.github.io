@@ -27,6 +27,19 @@ My research interests are mainly in reinforcement learning (including, but not l
   <tbody>
     <tr>
       <td width="30%">
+      </td>
+      <td width="70%">
+        <span class="inner-title">Time Discretization-Invariant Safe Action Repetition for Policy Gradient Methods</span>
+        <br/>
+        Seohong Park, <strong>Jaekyeom Kim</strong>, Gunhee Kim
+        <br/>
+        <i><strong>NeurIPS 2021</strong> (to appear)</i>
+        <br/>
+        <br/>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%">
         <img src="/images/publications/ibol_thumbnail.jpg" />
       </td>
       <td width="70%">
