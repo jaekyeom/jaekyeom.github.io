@@ -116,6 +116,7 @@ My research interests are mainly in reinforcement learning (including, but not l
 
 ## Honors & Awards
 
+* Naver PhD Fellowship <small>(*Dec. 2021*, Naver)</small>
 * [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/) - Area: Machine Learning <small>(*Sep. 2021*, Google)</small>
 * [Samsung Humantech Paper Award](https://humantech.samsung.com/saitext/index.jsp) - Silver Prize in Signal Processing <small>(*Feb. 2021*, Samsung Electronics)</small>
 * [Qualcomm Innovation Fellowship Korea](https://www.qualcomm.com/research/research/university-relations/innovation-fellowship/2020-south-korea) <small>(*Dec. 2020*, Qualcomm AI Research)</small>
