@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I am a M.S./Ph.D. student in [Computer Science and Engineering](https://cse.snu.ac.kr/en) at [Seoul National University](http://en.snu.ac.kr/), and working in [Vision & Learning Lab](https://vision.snu.ac.kr/)
 
-My research interests are mainly in reinforcement learning (including, but not limited to: better robustness to new data or environments, representation learning, and information-theoretic approaches and analyses).
+My research interests are mainly in reinforcement learning (including, but not limited to: better robustness and adaptability to new data or tasks, representation learning, and information-theoretic approaches and analyses).
 
 ## Education
 
