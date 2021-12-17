@@ -100,7 +100,7 @@ My research interests are mainly in reinforcement learning (including, but not l
       <td width="70%">
         <span class="inner-title">EMI: Exploration with Mutual Information</span>
         <br/>
-        <strong>Jaekyeom Kim*</strong>, Hyoungseok Kim*, Yeonwoo Jeong, Sergey Levine, Hyun Oh Song (<strong>*equal contribution</strong>)
+        Hyoungseok Kim*, <strong>Jaekyeom Kim*</strong>, Yeonwoo Jeong, Sergey Levine, Hyun Oh Song (<strong>*equal contribution</strong>)
         <br/>
         <i><strong>ICML 2019 (Long talk)</strong></i>
         <br/>
