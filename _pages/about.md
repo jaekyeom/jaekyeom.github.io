@@ -33,8 +33,13 @@ My research interests are mainly in reinforcement learning (including, but not l
         <br/>
         Seohong Park, <strong>Jaekyeom Kim</strong>, Gunhee Kim
         <br/>
-        <i><strong>NeurIPS 2021</strong> (to appear)</i>
+        <i><strong>NeurIPS 2021</strong></i>
         <br/>
+        <a href="https://papers.nips.cc/paper/2021/file/024677efb8e4aee2eaeef17b54695bbe-Paper.pdf">[paper]</a>
+        <a href="https://papers.nips.cc/paper/2021/file/024677efb8e4aee2eaeef17b54695bbe-Supplemental.pdf">[appx]</a>
+        <a href="https://arxiv.org/abs/2111.03941">[arxiv]</a>
+        <a href="https://neurips.cc/virtual/2021/poster/27532">[talk]</a>
+        <a href="https://vision.snu.ac.kr/projects/sar">[code]</a>
         <br/>
       </td>
     </tr>
