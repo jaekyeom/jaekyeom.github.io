@@ -23,10 +23,11 @@ My research interests are mainly in reinforcement learning (including, but not l
 
 ## Publications
 
-<table class="no-border" style="border-spacing: 0 0.8em; border-collapse: separate;">
+<table class="no-border publication-list" style="border-spacing: 0 0.8em; border-collapse: separate;">
   <tbody>
     <tr>
       <td width="30%">
+        <img src="/images/publications/sar_thumbnail.png" />
       </td>
       <td width="70%">
         <span class="inner-title">Time Discretization-Invariant Safe Action Repetition for Policy Gradient Methods</span>

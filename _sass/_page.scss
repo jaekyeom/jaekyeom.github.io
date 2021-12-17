@@ -408,3 +408,11 @@ a.link-author {
   color: inherit;
 }
 
+table.publication-list tr > td:first-child {
+  text-align: center;
+}
+
+table.publication-list tr > td:first-child img {
+  max-height: 125px;
+}
+
