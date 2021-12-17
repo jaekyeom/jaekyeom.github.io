@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a M.S./Ph.D. student in [Computer Science and Engineering](https://cse.snu.ac.kr/en) at [Seoul National University](http://en.snu.ac.kr/), and working in [Vision & Learning Lab](http://vision.snu.ac.kr/)
+Hello! I am a M.S./Ph.D. student in [Computer Science and Engineering](https://cse.snu.ac.kr/en) at [Seoul National University](http://en.snu.ac.kr/), and working in [Vision & Learning Lab](https://vision.snu.ac.kr/)
 
 My research interests are mainly in reinforcement learning (including, but not limited to: better robustness to new data or environments, representation learning, and information-theoretic approaches and analyses).
 
@@ -16,7 +16,7 @@ My research interests are mainly in reinforcement learning (including, but not l
 
 * [Seoul National University (SNU)](http://en.snu.ac.kr/) <small>(*Mar. 2018 - Present*)</small>
   * **M.S./Ph.D.** student in [Computer Science and Engineering](https://cse.snu.ac.kr/en)
-  * Advisor: Professor [Gunhee Kim](http://vision.snu.ac.kr/gunhee/) and Professor [Hyun Oh Song](http://mllab.snu.ac.kr/hyunoh/)
+  * Advisor: Professor [Gunhee Kim](https://vision.snu.ac.kr/gunhee/) and Professor [Hyun Oh Song](http://mllab.snu.ac.kr/hyunoh/)
 * [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) <small>(*Feb. 2010 - Jun. 2017*)</small>
   * **B.S.** in [Computer Science](https://cs.kaist.ac.kr/)
   * Graduated summa cum laude
@@ -31,7 +31,7 @@ My research interests are mainly in reinforcement learning (including, but not l
       <td width="70%">
         <span class="inner-title">Time Discretization-Invariant Safe Action Repetition for Policy Gradient Methods</span>
         <br/>
-        Seohong Park, <strong>Jaekyeom Kim</strong>, Gunhee Kim
+        <a class="link-author" href="https://artberryx.github.io/">Seohong Park</a>, <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
         <br/>
         <i><strong>NeurIPS 2021</strong></i>
         <br/>
@@ -50,7 +50,7 @@ My research interests are mainly in reinforcement learning (including, but not l
       <td width="70%">
         <span class="inner-title">Unsupervised Skill Discovery with Bottleneck Option Learning</span>
         <br/>
-        <strong>Jaekyeom Kim*</strong>, Seohong Park*, Gunhee Kim (<strong>*equal contribution</strong>)
+        <a class="link-author" href="/"><strong>Jaekyeom Kim*</strong></a>, <a class="link-author" href="https://artberryx.github.io/">Seohong Park</a>*, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a> (<strong>*equal contribution</strong>)
         <br/>
         <i><strong>ICML 2021</strong></i>
         <br/>
@@ -69,7 +69,7 @@ My research interests are mainly in reinforcement learning (including, but not l
       <td width="70%">
         <span class="inner-title">Drop-Bottleneck: Learning Discrete Compressed Representation for Noise-Robust Exploration</span>
         <br/>
-        <strong>Jaekyeom Kim</strong>, Minjung Kim, Dongyeon Woo, Gunhee Kim
+        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Minjung Kim, Dongyeon Woo, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
         <br/>
         <i><strong>ICLR 2021</strong></i>
         <br/>
@@ -87,7 +87,7 @@ My research interests are mainly in reinforcement learning (including, but not l
       <td width="70%">
         <span class="inner-title">Model-Agnostic Boundary-Adversarial Sampling for Test-Time Generalization in Few-Shot Learning</span>
         <br/>
-        <strong>Jaekyeom Kim</strong>, Hyoungseok Kim, Gunhee Kim
+        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Hyoungseok Kim, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
         <br/>
         <i><strong>ECCV 2020 (Oral)</strong></i>
         <br/>
@@ -105,7 +105,7 @@ My research interests are mainly in reinforcement learning (including, but not l
       <td width="70%">
         <span class="inner-title">EMI: Exploration with Mutual Information</span>
         <br/>
-        Hyoungseok Kim*, <strong>Jaekyeom Kim*</strong>, Yeonwoo Jeong, Sergey Levine, Hyun Oh Song (<strong>*equal contribution</strong>)
+        Hyoungseok Kim*, <a class="link-author" href="/"><strong>Jaekyeom Kim*</strong></a>, Yeonwoo Jeong, <a class="link-author" href="http://people.eecs.berkeley.edu/~svlevine/">Sergey Levine</a>, <a class="link-author" href="http://mllab.snu.ac.kr/hyunoh/">Hyun Oh Song</a> (<strong>*equal contribution</strong>)
         <br/>
         <i><strong>ICML 2019 (Long talk)</strong></i>
         <br/>
