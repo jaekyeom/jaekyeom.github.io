@@ -27,6 +27,19 @@ My research interests are mainly in reinforcement learning (including, but not l
   <tbody>
     <tr>
       <td width="30%">
+      </td>
+      <td width="70%">
+        <span class="inner-title">Lipschitz-constrained Unsupervised Skill Discovery</span>
+        <br/>
+        <a class="link-author" href="https://artberryx.github.io/">Seohong Park</a>, <a class="link-author" href="https://wook.kr/">Jongwook Choi*</a>, <a class="link-author" href="/"><strong>Jaekyeom Kim*</strong></a>, <a class="link-author" href="https://web.eecs.umich.edu/~honglak/">Honglak Lee</a>, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a> (<strong>*equal contribution</strong>)
+        <br/>
+        <i><strong>ICLR 2022</strong></i>
+        <br/>
+        <br/>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%">
         <img src="/images/publications/sar_thumbnail.png" />
       </td>
       <td width="70%">
@@ -51,7 +64,7 @@ My research interests are mainly in reinforcement learning (including, but not l
       <td width="70%">
         <span class="inner-title">Unsupervised Skill Discovery with Bottleneck Option Learning</span>
         <br/>
-        <a class="link-author" href="/"><strong>Jaekyeom Kim*</strong></a>, <a class="link-author" href="https://artberryx.github.io/">Seohong Park</a>*, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a> (<strong>*equal contribution</strong>)
+        <a class="link-author" href="/"><strong>Jaekyeom Kim*</strong></a>, <a class="link-author" href="https://artberryx.github.io/">Seohong Park*</a>, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a> (<strong>*equal contribution</strong>)
         <br/>
         <i><strong>ICML 2021</strong></i>
         <br/>
