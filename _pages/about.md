@@ -27,6 +27,7 @@ My research interests are mainly in reinforcement learning (including, but not l
   <tbody>
     <tr>
       <td width="30%">
+        <img src="/images/publications/lsd_thumbnail.png" />
       </td>
       <td width="70%">
         <span class="inner-title">Lipschitz-constrained Unsupervised Skill Discovery</span>
@@ -35,6 +36,10 @@ My research interests are mainly in reinforcement learning (including, but not l
         <br/>
         <i><strong>ICLR 2022</strong></i>
         <br/>
+        <a href="https://openreview.net/forum?id=BGvt0ghNgA">[paper]</a>
+        <a href="https://arxiv.org/abs/2202.00914">[arxiv]</a>
+        <a href="https://shpark.me/projects/lsd/">[project]</a>
+        <a href="https://vision.snu.ac.kr/projects/lsd">[code]</a>
         <br/>
       </td>
     </tr>
