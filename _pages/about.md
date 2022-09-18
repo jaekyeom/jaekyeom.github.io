@@ -31,7 +31,7 @@ My research interests are mainly in reinforcement learning (including, but not l
       <td width="70%">
         <span class="inner-title">Constrained GPI for Zero-Shot Transfer in Reinforcement Learning</span>
         <br/>
-        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, <a class="link-author" href="https://artberryx.github.io/">Seohong Park</a>, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
+        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, <a class="link-author" href="https://shpark.me/">Seohong Park</a>, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
         <br/>
         <i><strong>NeurIPS 2022</strong> (to appear)</i>
         <br/>
@@ -45,7 +45,7 @@ My research interests are mainly in reinforcement learning (including, but not l
       <td width="70%">
         <span class="inner-title">Lipschitz-constrained Unsupervised Skill Discovery</span>
         <br/>
-        <a class="link-author" href="https://artberryx.github.io/">Seohong Park</a>, <a class="link-author" href="https://wook.kr/">Jongwook Choi*</a>, <a class="link-author" href="/"><strong>Jaekyeom Kim*</strong></a>, <a class="link-author" href="https://web.eecs.umich.edu/~honglak/">Honglak Lee</a>, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a> (<strong>*equal contribution</strong>)
+        <a class="link-author" href="https://shpark.me/">Seohong Park</a>, <a class="link-author" href="https://wook.kr/">Jongwook Choi*</a>, <a class="link-author" href="/"><strong>Jaekyeom Kim*</strong></a>, <a class="link-author" href="https://web.eecs.umich.edu/~honglak/">Honglak Lee</a>, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a> (<strong>*equal contribution</strong>)
         <br/>
         <i><strong>ICLR 2022</strong></i>
         <br/>
@@ -63,7 +63,7 @@ My research interests are mainly in reinforcement learning (including, but not l
       <td width="70%">
         <span class="inner-title">Time Discretization-Invariant Safe Action Repetition for Policy Gradient Methods</span>
         <br/>
-        <a class="link-author" href="https://artberryx.github.io/">Seohong Park</a>, <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
+        <a class="link-author" href="https://shpark.me/">Seohong Park</a>, <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
         <br/>
         <i><strong>NeurIPS 2021</strong></i>
         <br/>
@@ -82,7 +82,7 @@ My research interests are mainly in reinforcement learning (including, but not l
       <td width="70%">
         <span class="inner-title">Unsupervised Skill Discovery with Bottleneck Option Learning</span>
         <br/>
-        <a class="link-author" href="/"><strong>Jaekyeom Kim*</strong></a>, <a class="link-author" href="https://artberryx.github.io/">Seohong Park*</a>, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a> (<strong>*equal contribution</strong>)
+        <a class="link-author" href="/"><strong>Jaekyeom Kim*</strong></a>, <a class="link-author" href="https://shpark.me/">Seohong Park*</a>, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a> (<strong>*equal contribution</strong>)
         <br/>
         <i><strong>ICML 2021</strong></i>
         <br/>
