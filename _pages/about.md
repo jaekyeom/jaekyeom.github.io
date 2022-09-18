@@ -27,6 +27,19 @@ My research interests are mainly in reinforcement learning (including, but not l
   <tbody>
     <tr>
       <td width="30%">
+      </td>
+      <td width="70%">
+        <span class="inner-title">Constrained GPI for Zero-Shot Transfer in Reinforcement Learning</span>
+        <br/>
+        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, <a class="link-author" href="https://artberryx.github.io/">Seohong Park</a>, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
+        <br/>
+        <i><strong>NeurIPS 2022</strong> (to appear)</i>
+        <br/>
+        <br/>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%">
         <img src="/images/publications/lsd_thumbnail.png" />
       </td>
       <td width="70%">
