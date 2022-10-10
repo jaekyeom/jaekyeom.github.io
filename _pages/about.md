@@ -71,7 +71,7 @@ My research interests are mainly in reinforcement learning (including, but not l
         <a href="https://papers.nips.cc/paper/2021/file/024677efb8e4aee2eaeef17b54695bbe-Supplemental.pdf">[appx]</a>
         <a href="https://arxiv.org/abs/2111.03941">[arxiv]</a>
         <a href="https://neurips.cc/virtual/2021/poster/27532">[talk]</a>
-        <a href="/projects/sar">[code]</a>
+        <a href="/projects/sar/">[code]</a>
         <br/>
       </td>
     </tr>
@@ -90,7 +90,7 @@ My research interests are mainly in reinforcement learning (including, but not l
         <a href="http://proceedings.mlr.press/v139/kim21j/kim21j-supp.pdf">[appx]</a>
         <a href="https://arxiv.org/abs/2106.14305">[arxiv]</a>
         <a href="https://icml.cc/virtual/2021/spotlight/8532">[talk]</a>
-        <a href="/projects/ibol">[code]</a>
+        <a href="/projects/ibol/">[code]</a>
         <br/>
       </td>
     </tr>
@@ -108,7 +108,7 @@ My research interests are mainly in reinforcement learning (including, but not l
         <a href="https://openreview.net/pdf?id=1rxHOBjeDUW">[paper]</a>
         <a href="https://arxiv.org/abs/2103.12300">[arxiv]</a>
         <a href="https://iclr.cc/virtual/2021/poster/3127">[talk]</a>
-        <a href="/projects/db">[code]</a>
+        <a href="/projects/db/">[code]</a>
         <br/>
       </td>
     </tr>
@@ -126,7 +126,7 @@ My research interests are mainly in reinforcement learning (including, but not l
         <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460579.pdf">[paper]</a>
         <a href="https://drive.google.com/uc?id=1LhdzmuHBxOOoxrJYf9nR4pVOTOhyX_K4">[appx]</a>
         <a href="https://www.youtube.com/watch?v=XueZpAMsaOU">[talk]</a>
-        <a href="/projects/mabas">[code]</a>
+        <a href="/projects/mabas/">[code]</a>
         <br/>
       </td>
     </tr>
@@ -145,7 +145,7 @@ My research interests are mainly in reinforcement learning (including, but not l
         <a href="http://proceedings.mlr.press/v97/kim19a/kim19a-supp.pdf">[supp]</a>
         <a href="https://arxiv.org/abs/1810.01176">[arxiv]</a>
         <a href="https://www.videoken.com/embed/v-W4JSWUX28?tocitem=61">[talk]</a>
-        <a href="/projects/emi">[code]</a>
+        <a href="/projects/emi/">[code]</a>
       </td>
     </tr>
   </tbody>
