@@ -12,7 +12,7 @@ Hello! I am a M.S./Ph.D. student in [Computer Science and Engineering](https://c
 
 My research interests mainly lie in deep reinforcement learning and improving robustness to and reusability on new data or tasks,
 where the specific topics include:
-(a) unsupervised discovery of reusable and interpretable skills,
+(a) discovery of reusable and interpretable skills,
 (b) few- or zero-shot transfer, and
 (c) distilling task-relevant information.
 
