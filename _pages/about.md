@@ -10,9 +10,9 @@ redirect_from:
 
 Hello! I am a M.S./Ph.D. student in [Computer Science and Engineering](https://cse.snu.ac.kr/en) at [Seoul National University](http://en.snu.ac.kr/), and working in [Vision & Learning Lab](https://vision.snu.ac.kr/)
 
-My research interests mainly lie in deep reinforcement learning and improving learned agents/behaviors' reusability on and robustness to new tasks or data,
+My research interests mainly lie in deep reinforcement learning, abstraction of behaviors at scale, and improving learned behaviors' reusability on and robustness to new tasks or data,
 where the specific topics include:
-(a) discovery of reusable and interpretable skills,
+(a) discovery or learning of reusable and interpretable skills,
 (b) few- or zero-shot transfer, and
 (c) distilling task-relevant information.
 
