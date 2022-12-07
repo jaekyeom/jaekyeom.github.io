@@ -10,11 +10,7 @@ redirect_from:
 
 Hello! I am a M.S./Ph.D. student in [Computer Science and Engineering](https://cse.snu.ac.kr/en) at [Seoul National University](http://en.snu.ac.kr/), and working in [Vision & Learning Lab](https://vision.snu.ac.kr/)
 
-My research interests mainly lie in deep reinforcement learning, abstraction of behaviors at scale, and improving learned behaviors' reusability on and robustness to new tasks or data,
-where the specific topics include:
-(a) discovery or learning of reusable and interpretable skills,
-(b) few- or zero-shot transfer, and
-(c) distilling task-relevant information.
+My research interests mainly lie in deep reinforcement learning, improving the transferability and generalization of learned behaviors to new tasks or data, and abstraction of behaviors at scale.
 
 ## Education
 
@@ -37,7 +33,7 @@ where the specific topics include:
         <br/>
         <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, <a class="link-author" href="https://shpark.me/">Seohong Park</a>, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
         <br/>
-        <i><strong>NeurIPS 2022</strong> (to appear)</i>
+        <i><strong>NeurIPS 2022</strong></i>
         <br/>
         <br/>
       </td>
