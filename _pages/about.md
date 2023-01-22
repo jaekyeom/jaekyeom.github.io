@@ -27,6 +27,7 @@ My research interests mainly lie in deep reinforcement learning, discovery and a
   <tbody>
     <tr>
       <td width="30%">
+        <img src="/images/publications/cgpi_thumbnail.jpg" />
       </td>
       <td width="70%">
         <span class="inner-title">Constrained GPI for Zero-Shot Transfer in Reinforcement Learning</span>
@@ -35,6 +36,10 @@ My research interests mainly lie in deep reinforcement learning, discovery and a
         <br/>
         <i><strong>NeurIPS 2022</strong></i>
         <br/>
+        <a href="https://openreview.net/forum?id=sWNT5lT7l9G">[paper]</a>
+        [arxiv]
+        <a href="https://neurips.cc/virtual/2022/poster/53209">[talk]</a>
+        [code]
         <br/>
       </td>
     </tr>
@@ -105,7 +110,7 @@ My research interests mainly lie in deep reinforcement learning, discovery and a
         <br/>
         <i><strong>ICLR 2021</strong></i>
         <br/>
-        <a href="https://openreview.net/pdf?id=1rxHOBjeDUW">[paper]</a>
+        <a href="https://openreview.net/forum?id=1rxHOBjeDUW">[paper]</a>
         <a href="https://arxiv.org/abs/2103.12300">[arxiv]</a>
         <a href="https://iclr.cc/virtual/2021/poster/3127">[talk]</a>
         <a href="/projects/db/">[code]</a>
