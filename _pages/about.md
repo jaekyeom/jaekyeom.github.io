@@ -158,6 +158,7 @@ My research interests mainly lie in deep reinforcement learning, discovery and a
 
 ## Honors & Awards
 
+* Star Student Researcher Award <small>(*Feb. 2023*, Brain Korea (BK21) FOUR Intelligence Computing, Seoul National University)</small>
 * Youlchon AI Star Fellowship <small>(*Jul. 2022*, Youlchon Foundation)</small>
 * Naver PhD Fellowship <small>(*Dec. 2021*, Naver)</small>
 * [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/) - Area: Machine Learning <small>(*Sep. 2021*, Google)</small>
