@@ -142,7 +142,7 @@ My research interests mainly lie in deep reinforcement learning, discovery and a
       <td width="70%">
         <span class="inner-title">EMI: Exploration with Mutual Information</span>
         <br/>
-        Hyoungseok Kim*, <a class="link-author" href="/"><strong>Jaekyeom Kim*</strong></a>, Yeonwoo Jeong, <a class="link-author" href="http://people.eecs.berkeley.edu/~svlevine/">Sergey Levine</a>, <a class="link-author" href="http://mllab.snu.ac.kr/hyunoh/">Hyun Oh Song</a> (<strong>*equal contribution</strong>)
+        Hyoungseok Kim*, <a class="link-author" href="/"><strong>Jaekyeom Kim*</strong></a>, <a class="link-author" href="https://maestrojeong.github.io/">Yeonwoo Jeong</a>, <a class="link-author" href="http://people.eecs.berkeley.edu/~svlevine/">Sergey Levine</a>, <a class="link-author" href="http://mllab.snu.ac.kr/hyunoh/">Hyun Oh Song</a> (<strong>*equal contribution</strong>)
         <br/>
         <i><strong>ICML 2019 (Long talk)</strong></i>
         <br/>
