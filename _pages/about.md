@@ -106,7 +106,7 @@ My research interests mainly lie in deep reinforcement learning, discovery and a
       <td width="70%">
         <span class="inner-title">Drop-Bottleneck: Learning Discrete Compressed Representation for Noise-Robust Exploration</span>
         <br/>
-        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Minjung Kim, Dongyeon Woo, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
+        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, <a class="link-author" href="https://minnjung.github.io/">Minjung Kim</a>, <a class="link-author" href="https://woody0325.github.io/">Dongyeon Woo</a>, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
         <br/>
         <i><strong>ICLR 2021</strong></i>
         <br/>
