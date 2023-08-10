@@ -92,7 +92,8 @@ author:
   #avatar           : "profile_jaekyeom_animated.gif"
   #bio              : "Graduate student at SNU Vision & Learning Lab"
   bio              : "Postdoctoral researcher at LG AI Research Center, Ann Arbor"
-  location         : "Seoul, Korea"
+  #location         : "Seoul, Korea"
+  location         : "Ann Arbor, Michigan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=8PR-AaoAAAAJ"
