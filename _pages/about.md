@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Ph.D. candidate in [Computer Science and Engineering](https://cse.snu.ac.kr/en) at [Seoul National University](http://en.snu.ac.kr/), and am working as a member of [Vision & Learning Lab](https://vision.snu.ac.kr/).
+Hello! I am a postdoctoral researcher at LG AI Research Center, Ann Arbor.
+Before that, I received my PhD in [Computer Science and Engineering](https://cse.snu.ac.kr/en) at [Seoul National University](http://en.snu.ac.kr/) and worked as a member of [Vision & Learning Lab](https://vision.snu.ac.kr/).
 
 My research interests mainly lie in deep reinforcement learning, discovery and abstraction of behaviors at scale, and generalization of learned behaviors to new tasks or domains.
 
 ## Education
 
-* [Seoul National University (SNU)](http://en.snu.ac.kr/) <small>(*Mar. 2018 - Aug. 2023 (expected)*)</small>
+* [Seoul National University (SNU)](http://en.snu.ac.kr/) <small>(*Mar. 2018 - Aug. 2023)</small>
   * **M.S./Ph.D.** student in [Computer Science and Engineering](https://cse.snu.ac.kr/en)
   * Advisor: Professor [Gunhee Kim](https://vision.snu.ac.kr/gunhee/) and Professor [Hyun Oh Song](http://mllab.snu.ac.kr/hyunoh/)
 * [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) <small>(*Feb. 2010 - Jun. 2017*)</small>
