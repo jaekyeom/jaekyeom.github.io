@@ -159,6 +159,7 @@ My research interests mainly lie in deep reinforcement learning, discovery and a
 
 ## Honors & Awards
 
+* PhD Dissertation Award <small>(*Aug. 2023*, Dept. of Computer Science and Engineering, Seoul National University)</small>
 * Star Student Researcher Award <small>(*Feb. 2023*, Brain Korea (BK21) FOUR Intelligence Computing, Seoul National University)</small>
 * Youlchon AI Star Fellowship <small>(*Jul. 2022*, Youlchon Foundation)</small>
 * Naver PhD Fellowship <small>(*Dec. 2021*, Naver)</small>
