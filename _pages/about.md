@@ -15,7 +15,7 @@ My research interests mainly lie in deep reinforcement learning, discovery and a
 
 ## Education
 
-* [Seoul National University (SNU)](http://en.snu.ac.kr/) <small>(*Mar. 2018 - Aug. 2023)</small>
+* [Seoul National University (SNU)](http://en.snu.ac.kr/) <small>(*Mar. 2018 - Aug. 2023*)</small>
   * **M.S./Ph.D.** student in [Computer Science and Engineering](https://cse.snu.ac.kr/en)
   * Advisor: Professor [Gunhee Kim](https://vision.snu.ac.kr/gunhee/) and Professor [Hyun Oh Song](http://mllab.snu.ac.kr/hyunoh/)
 * [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) <small>(*Feb. 2010 - Jun. 2017*)</small>
