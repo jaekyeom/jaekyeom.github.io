@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a researcher at LG AI Research Center, Ann Arbor.
+Hello! I am a researcher working with Professor [Honglak Lee](https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en) at [LG AI Research](https://lgresearch.ai/) Center, Ann Arbor.
 Before that, I received my PhD in [Computer Science and Engineering](https://cse.snu.ac.kr/en) at [Seoul National University](http://en.snu.ac.kr/) and worked as a member of [Vision & Learning Lab](https://vision.snu.ac.kr/).
 
 My research interests mainly lie in deep reinforcement learning, discovery and abstraction of behaviors at scale, and generalization of learned behaviors to new tasks or domains.
