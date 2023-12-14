@@ -11,7 +11,7 @@ redirect_from:
 Hello! I am a researcher working with Professor [Honglak Lee](https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en) at [LG AI Research](https://lgresearch.ai/) Center, Ann Arbor.
 Before that, I received my PhD in [Computer Science and Engineering](https://cse.snu.ac.kr/en) at [Seoul National University](http://en.snu.ac.kr/) and worked as a member of [Vision & Learning Lab](https://vision.snu.ac.kr/).
 
-My research interests mainly lie in deep reinforcement learning, discovery and abstraction of behaviors at scale, and generalization of learned behaviors to new tasks or domains.
+My research interests mainly lie in LLM-based agents for decision making in real-world tasks by leveraging large-scale demonstration datasets and prior knowledge in LLMs.
 
 ## Education
 
@@ -159,7 +159,7 @@ My research interests mainly lie in deep reinforcement learning, discovery and a
 
 ## Honors & Awards
 
-* PhD Dissertation Award <small>(*Aug. 2023*, Dept. of Computer Science and Engineering, Seoul National University)</small>
+* Best PhD Dissertation Award <small>(*Aug. 2023*, Dept. of Computer Science and Engineering, Seoul National University)</small>
 * Star Student Researcher Award <small>(*Feb. 2023*, Brain Korea (BK21) FOUR Intelligence Computing, Seoul National University)</small>
 * Youlchon AI Star Fellowship <small>(*Jul. 2022*, Youlchon Foundation)</small>
 * Naver PhD Fellowship <small>(*Dec. 2021*, Naver)</small>
