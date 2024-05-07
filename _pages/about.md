@@ -28,6 +28,34 @@ My research interests mainly lie in LLM-based agents for decision making in real
   <tbody>
     <tr>
       <td width="30%">
+      </td>
+      <td width="70%">
+        <span class="inner-title">Small Language Models Need Strong Verifiers to Self-Correct Reasoning</span>
+        <br/>
+        Yunxiang Zhang, Muhammad Khalifa, Lajanugen Logeswaran, <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Moontae Lee, Honglak Lee, Lu Wang
+        <br/>
+        <i>arXiv 2024</i>
+        <br/>
+        <a href="https://arxiv.org/abs/2404.17140">[arxiv]</a>
+        <br/>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%">
+      </td>
+      <td width="70%">
+        <span class="inner-title">AutoGuide: Automated Generation and Selection of State-Aware Guidelines for Large Language Model Agents</span>
+        <br/>
+        Yao Fu, Dong-Ki Kim, <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Sungryull Sohn, Lajanugen Logeswaran, Kyunghoon Bae, Honglak Lee
+        <br/>
+        <i>arXiv 2024</i>
+        <br/>
+        <a href="https://arxiv.org/abs/2403.08978">[arxiv]</a>
+        <br/>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%">
         <img src="/images/publications/cgpi_thumbnail.jpg" />
       </td>
       <td width="70%">
