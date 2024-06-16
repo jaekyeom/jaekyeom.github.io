@@ -11,7 +11,7 @@ redirect_from:
 Hello! I am a researcher working with Professor [Honglak Lee](https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en) at [LG AI Research](https://lgresearch.ai/) Center, Ann Arbor.
 Before that, I received my PhD in [Computer Science and Engineering](https://cse.snu.ac.kr/en) at [Seoul National University](http://en.snu.ac.kr/) and worked as a member of [Vision & Learning Lab](https://vision.snu.ac.kr/).
 
-My research interests mainly lie in LLM-based agents for decision making in real-world tasks by leveraging large-scale demonstration datasets and prior knowledge in LLMs.
+My research interests mainly lie in LLM and VLM-based agents for decision-making in real-world tasks by leveraging large-scale demonstration datasets and prior knowledge in foundation models.
 
 ## Education
 
