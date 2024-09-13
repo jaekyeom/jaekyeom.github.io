@@ -11,7 +11,7 @@ redirect_from:
 Hello! I am a researcher working with Professor [Honglak Lee](https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en) at [LG AI Research](https://lgresearch.ai/) Center, Ann Arbor.
 Before that, I received my PhD in [Computer Science and Engineering](https://cse.snu.ac.kr/en) at [Seoul National University](http://en.snu.ac.kr/) and worked as a member of [Vision & Learning Lab](https://vision.snu.ac.kr/).
 
-My research interests mainly lie in LLM and VLM-based agents for decision-making in real-world tasks by leveraging large-scale demonstration datasets and prior knowledge in foundation models.
+My research interests mainly lie in LLM and multimodal agents for decision-making in challenging, real-world tasks by leveraging large-scale data and knowledge in foundation models.
 
 ## Education
 
@@ -30,13 +30,13 @@ My research interests mainly lie in LLM and VLM-based agents for decision-making
       <td width="30%">
       </td>
       <td width="70%">
-        <span class="inner-title">Small Language Models Need Strong Verifiers to Self-Correct Reasoning</span>
+        <span class="inner-title">AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents</span>
         <br/>
-        Yunxiang Zhang, Muhammad Khalifa, Lajanugen Logeswaran, <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Moontae Lee, Honglak Lee, Lu Wang
+        Yao Fu, Dong-Ki Kim, <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Sungryull Sohn, Lajanugen Logeswaran, Kyunghoon Bae, Honglak Lee
         <br/>
-        <i>arXiv 2024</i>
+        <i>ICML 2024 Workshop on LLMs and Cognition</i>
         <br/>
-        <a href="https://arxiv.org/abs/2404.17140">[arxiv]</a>
+        <a href="https://arxiv.org/abs/2403.08978">[arxiv]</a>
         <br/>
       </td>
     </tr>
@@ -44,13 +44,27 @@ My research interests mainly lie in LLM and VLM-based agents for decision-making
       <td width="30%">
       </td>
       <td width="70%">
-        <span class="inner-title">AutoGuide: Automated Generation and Selection of State-Aware Guidelines for Large Language Model Agents</span>
+        <span class="inner-title">SkillAct: Using Skill Abstractions Improves LLM Agents</span>
         <br/>
-        Yao Fu, Dong-Ki Kim, <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Sungryull Sohn, Lajanugen Logeswaran, Kyunghoon Bae, Honglak Lee
+        Anthony Zhe Liu, Jongwook Choi, Sungryull Sohn, Yao Fu, <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Dong-Ki Kim, Xinhe Wang, Jaewon Yoo, Honglak Lee
         <br/>
-        <i>arXiv 2024</i>
+        <i>ICML 2024 Workshop on LLMs and Cognition</i>
         <br/>
-        <a href="https://arxiv.org/abs/2403.08978">[arxiv]</a>
+        <a href="https://openreview.net/pdf?id=6LG3cIRrF4">[paper]</a>
+        <br/>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%">
+      </td>
+      <td width="70%">
+        <span class="inner-title">Small Language Models Need Strong Verifiers to Self-Correct Reasoning</span>
+        <br/>
+        Yunxiang Zhang, Muhammad Khalifa, Lajanugen Logeswaran, <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Moontae Lee, Honglak Lee, Lu Wang
+        <br/>
+        <i>ACL 2024 (Findings)</i>
+        <br/>
+        <a href="https://arxiv.org/abs/2404.17140">[arxiv]</a>
         <br/>
       </td>
     </tr>
