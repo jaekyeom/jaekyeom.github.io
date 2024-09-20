@@ -30,6 +30,20 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
       <td width="30%">
       </td>
       <td width="70%">
+        <span class="inner-title">Auto-Intent: Automated Intent Discovery and Self-Exploration for Large Language Model Web Agents</span>
+        <br/>
+        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Dong-Ki Kim, Lajanugen Logeswaran, Sungryull Sohn, Honglak Lee
+        <br/>
+        <i>EMNLP 2024 Findings</i>
+        <br/>
+        (to appear)
+        <br/>
+      </td>
+    </tr>
+    <tr>
+      <td width="30%">
+      </td>
+      <td width="70%">
         <span class="inner-title">AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents</span>
         <br/>
         Yao Fu, Dong-Ki Kim, <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Sungryull Sohn, Lajanugen Logeswaran, Kyunghoon Bae, Honglak Lee
