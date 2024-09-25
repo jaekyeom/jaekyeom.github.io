@@ -30,13 +30,13 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
       <td width="30%">
       </td>
       <td width="70%">
-        <span class="inner-title">Auto-Intent: Automated Intent Discovery and Self-Exploration for Large Language Model Web Agents</span>
+        <span class="inner-title">Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents</span>
         <br/>
-        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Dong-Ki Kim, Lajanugen Logeswaran, Sungryull Sohn, Honglak Lee
+        Yao Fu, Dong-Ki Kim, <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Sungryull Sohn, Lajanugen Logeswaran, Kyunghoon Bae, Honglak Lee
         <br/>
-        <i>EMNLP 2024 Findings</i>
+        <i>NeurIPS 2024</i>
         <br/>
-        (to appear)
+        <a href="https://arxiv.org/abs/2403.08978">[arxiv]</a>
         <br/>
       </td>
     </tr>
@@ -44,13 +44,13 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
       <td width="30%">
       </td>
       <td width="70%">
-        <span class="inner-title">AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents</span>
+        <span class="inner-title">Auto-Intent: Automated Intent Discovery and Self-Exploration for Large Language Model Web Agents</span>
         <br/>
-        Yao Fu, Dong-Ki Kim, <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Sungryull Sohn, Lajanugen Logeswaran, Kyunghoon Bae, Honglak Lee
+        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Dong-Ki Kim, Lajanugen Logeswaran, Sungryull Sohn, Honglak Lee
         <br/>
-        <i>ICML 2024 Workshop on LLMs and Cognition</i>
+        <i>EMNLP 2024 Findings</i>
         <br/>
-        <a href="https://arxiv.org/abs/2403.08978">[arxiv]</a>
+        (to appear)
         <br/>
       </td>
     </tr>
