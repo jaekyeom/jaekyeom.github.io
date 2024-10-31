@@ -42,6 +42,7 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
     </tr>
     <tr>
       <td width="30%">
+        <img src="/images/publications/auto-intent_thumbnail.jpg" />
       </td>
       <td width="70%">
         <span class="inner-title">Auto-Intent: Automated Intent Discovery and Self-Exploration for Large Language Model Web Agents</span>
