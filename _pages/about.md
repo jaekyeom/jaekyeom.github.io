@@ -34,7 +34,7 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
         <br/>
         Yao Fu*, Dong-Ki Kim*, <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Sungryull Sohn, Lajanugen Logeswaran, Kyunghoon Bae, Honglak Lee
         <br/>
-        <i>NeurIPS 2024</i>
+        <i><strong>NeurIPS 2024</strong></i>
         <br/>
         <a href="https://arxiv.org/abs/2403.08978">[arxiv]</a>
         <br/>
@@ -49,7 +49,7 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
         <br/>
         <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Dong-Ki Kim, Lajanugen Logeswaran, Sungryull Sohn, Honglak Lee
         <br/>
-        <i>EMNLP 2024 Findings</i>
+        <i><strong>EMNLP 2024 (Findings)</strong></i>
         <br/>
         <a href="https://arxiv.org/abs/2410.22552">[arxiv]</a>
         <a href="/projects/auto-intent-poster.pdf">[poster]</a>
@@ -64,7 +64,7 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
         <br/>
         Anthony Zhe Liu, Jongwook Choi, Sungryull Sohn, Yao Fu, <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Dong-Ki Kim, Xinhe Wang, Jaewon Yoo, Honglak Lee
         <br/>
-        <i>ICML 2024 Workshop on LLMs and Cognition</i>
+        <i><strong>ICML 2024 Workshop on LLMs and Cognition</strong></i>
         <br/>
         <a href="https://openreview.net/pdf?id=6LG3cIRrF4">[paper]</a>
         <br/>
@@ -78,7 +78,7 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
         <br/>
         Yunxiang Zhang, Muhammad Khalifa, Lajanugen Logeswaran, <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Moontae Lee, Honglak Lee, Lu Wang
         <br/>
-        <i>ACL 2024 (Findings)</i>
+        <i><strong>ACL 2024 (Findings)</strong></i>
         <br/>
         <a href="https://arxiv.org/abs/2404.17140">[arxiv]</a>
         <br/>
