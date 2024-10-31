@@ -1,5 +1,5 @@
 ---
 redirect_to: 
-  - https://jaekyeom.github.io/
+  - https://arxiv.org/abs/2410.22552
 ---
 
