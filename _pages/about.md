@@ -50,7 +50,7 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
         <br/>
         <i>EMNLP 2024 Findings</i>
         <br/>
-        (to appear)
+        <a href="https://arxiv.org/abs/2410.22552">[arxiv]</a>
         <br/>
       </td>
     </tr>
