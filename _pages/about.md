@@ -30,7 +30,7 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
       <td width="30%">
       </td>
       <td width="70%">
-        <span class="inner-title">Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents</span>
+        <span class="inner-title">AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents</span>
         <br/>
         Yao Fu*, Dong-Ki Kim*, <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Sungryull Sohn, Lajanugen Logeswaran, Kyunghoon Bae, Honglak Lee
         <br/>
