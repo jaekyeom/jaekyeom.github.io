@@ -28,7 +28,7 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
   <tbody>
     <tr>
       <td width="35%">
-        <img src="/images/publications/autoguide_thumbnail.jpg" />
+        <img class="pub-thumbnail" src="/images/publications/autoguide_thumbnail.jpg" />
       </td>
       <td width="65%">
         <span class="inner-title">AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents</span>
@@ -43,7 +43,7 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
     </tr>
     <tr>
       <td width="35%">
-        <img src="/images/publications/auto-intent_thumbnail.jpg" />
+        <img class="pub-thumbnail" src="/images/publications/auto-intent_thumbnail.jpg" />
       </td>
       <td width="65%">
         <span class="inner-title">Auto-Intent: Automated Intent Discovery and Self-Exploration for Large Language Model Web Agents</span>
@@ -59,7 +59,7 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
     </tr>
     <tr>
       <td width="35%">
-        <img src="/images/publications/skillact_thumbnail.jpg" />
+        <img class="pub-thumbnail" src="/images/publications/skillact_thumbnail.jpg" />
       </td>
       <td width="65%">
         <span class="inner-title">SkillAct: Using Skill Abstractions Improves LLM Agents</span>
@@ -74,7 +74,7 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
     </tr>
     <tr>
       <td width="35%">
-        <img src="/images/publications/score_thumbnail.jpg" />
+        <img class="pub-thumbnail" src="/images/publications/score_thumbnail.jpg" />
       </td>
       <td width="65%">
         <span class="inner-title">Small Language Models Need Strong Verifiers to Self-Correct Reasoning</span>
@@ -89,7 +89,7 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
     </tr>
     <tr>
       <td width="35%">
-        <img src="/images/publications/cgpi_thumbnail.jpg" />
+        <img class="pub-thumbnail" src="/images/publications/cgpi_thumbnail.jpg" />
       </td>
       <td width="65%">
         <span class="inner-title">Constrained GPI for Zero-Shot Transfer in Reinforcement Learning</span>
@@ -107,7 +107,7 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
     </tr>
     <tr>
       <td width="35%">
-        <img src="/images/publications/lsd_thumbnail.png" />
+        <img class="pub-thumbnail" src="/images/publications/lsd_thumbnail.png" />
       </td>
       <td width="65%">
         <span class="inner-title">Lipschitz-constrained Unsupervised Skill Discovery</span>
@@ -125,7 +125,7 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
     </tr>
     <tr>
       <td width="35%">
-        <img src="/images/publications/sar_thumbnail.png" />
+        <img class="pub-thumbnail" src="/images/publications/sar_thumbnail.png" />
       </td>
       <td width="65%">
         <span class="inner-title">Time Discretization-Invariant Safe Action Repetition for Policy Gradient Methods</span>
@@ -144,7 +144,7 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
     </tr>
     <tr>
       <td width="35%">
-        <img src="/images/publications/ibol_thumbnail.jpg" />
+        <img class="pub-thumbnail" src="/images/publications/ibol_thumbnail.jpg" />
       </td>
       <td width="65%">
         <span class="inner-title">Unsupervised Skill Discovery with Bottleneck Option Learning</span>
@@ -163,7 +163,7 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
     </tr>
     <tr>
       <td width="35%">
-        <img src="/images/publications/db_thumbnail.jpg" />
+        <img class="pub-thumbnail" src="/images/publications/db_thumbnail.jpg" />
       </td>
       <td width="65%">
         <span class="inner-title">Drop-Bottleneck: Learning Discrete Compressed Representation for Noise-Robust Exploration</span>
@@ -181,7 +181,7 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
     </tr>
     <tr>
       <td width="35%">
-        <img src="/images/publications/mabas_thumbnail.jpg" />
+        <img class="pub-thumbnail" src="/images/publications/mabas_thumbnail.jpg" />
       </td>
       <td width="65%">
         <span class="inner-title">Model-Agnostic Boundary-Adversarial Sampling for Test-Time Generalization in Few-Shot Learning</span>
@@ -199,7 +199,7 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
     </tr>
     <tr>
       <td width="35%">
-        <img src="/images/publications/emi_thumbnail.jpg" />
+        <img class="pub-thumbnail" src="/images/publications/emi_thumbnail.jpg" />
       </td>
       <td width="65%">
         <span class="inner-title">EMI: Exploration with Mutual Information</span>

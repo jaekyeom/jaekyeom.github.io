@@ -416,3 +416,20 @@ table.publication-list tr > td:first-child img {
   max-height: 125px;
 }
 
+/* --- Hover Expansion Effect on Publication Thumbnails --- */
+img.pub-thumbnail {
+  // For smaller viewports, use center left.
+  transform-origin: center left;
+  transition: transform 0.2s ease; // 0.3s animation with no delay when reverting
+
+  // For larger viewports, override to use center right.
+  @include breakpoint($large) {
+    transform-origin: center right;
+  }
+}
+
+img.pub-thumbnail:hover {
+  transition-delay: 0.25s; // Only trigger expansion if the cursor remains for 0.25s
+  transform: scale(2.5);
+}
+
