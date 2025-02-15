@@ -27,9 +27,10 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
 <table class="no-border publication-list" style="border-spacing: 0 0.8em; border-collapse: separate;">
   <tbody>
     <tr>
-      <td width="30%">
+      <td width="35%">
+        <img src="/images/publications/autoguide_thumbnail.jpg" />
       </td>
-      <td width="70%">
+      <td width="65%">
         <span class="inner-title">AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents</span>
         <br/>
         Yao Fu*, Dong-Ki Kim*, <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Sungryull Sohn, Lajanugen Logeswaran, Kyunghoon Bae, Honglak Lee
@@ -41,10 +42,10 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
       </td>
     </tr>
     <tr>
-      <td width="30%">
+      <td width="35%">
         <img src="/images/publications/auto-intent_thumbnail.jpg" />
       </td>
-      <td width="70%">
+      <td width="65%">
         <span class="inner-title">Auto-Intent: Automated Intent Discovery and Self-Exploration for Large Language Model Web Agents</span>
         <br/>
         <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Dong-Ki Kim, Lajanugen Logeswaran, Sungryull Sohn, Honglak Lee
@@ -57,9 +58,10 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
       </td>
     </tr>
     <tr>
-      <td width="30%">
+      <td width="35%">
+        <img src="/images/publications/skillact_thumbnail.jpg" />
       </td>
-      <td width="70%">
+      <td width="65%">
         <span class="inner-title">SkillAct: Using Skill Abstractions Improves LLM Agents</span>
         <br/>
         Anthony Zhe Liu, Jongwook Choi, Sungryull Sohn, Yao Fu, <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Dong-Ki Kim, Xinhe Wang, Jaewon Yoo, Honglak Lee
@@ -71,9 +73,10 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
       </td>
     </tr>
     <tr>
-      <td width="30%">
+      <td width="35%">
+        <img src="/images/publications/score_thumbnail.jpg" />
       </td>
-      <td width="70%">
+      <td width="65%">
         <span class="inner-title">Small Language Models Need Strong Verifiers to Self-Correct Reasoning</span>
         <br/>
         Yunxiang Zhang, Muhammad Khalifa, Lajanugen Logeswaran, <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Moontae Lee, Honglak Lee, Lu Wang
@@ -85,10 +88,10 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
       </td>
     </tr>
     <tr>
-      <td width="30%">
+      <td width="35%">
         <img src="/images/publications/cgpi_thumbnail.jpg" />
       </td>
-      <td width="70%">
+      <td width="65%">
         <span class="inner-title">Constrained GPI for Zero-Shot Transfer in Reinforcement Learning</span>
         <br/>
         <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, <a class="link-author" href="https://seohong.me/">Seohong Park</a>, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
@@ -103,10 +106,10 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
       </td>
     </tr>
     <tr>
-      <td width="30%">
+      <td width="35%">
         <img src="/images/publications/lsd_thumbnail.png" />
       </td>
-      <td width="70%">
+      <td width="65%">
         <span class="inner-title">Lipschitz-constrained Unsupervised Skill Discovery</span>
         <br/>
         <a class="link-author" href="https://seohong.me/">Seohong Park</a>, <a class="link-author" href="https://wook.kr/">Jongwook Choi*</a>, <a class="link-author" href="/"><strong>Jaekyeom Kim*</strong></a>, <a class="link-author" href="https://web.eecs.umich.edu/~honglak/">Honglak Lee</a>, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a> (<strong>*equal contribution</strong>)
@@ -121,10 +124,10 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
       </td>
     </tr>
     <tr>
-      <td width="30%">
+      <td width="35%">
         <img src="/images/publications/sar_thumbnail.png" />
       </td>
-      <td width="70%">
+      <td width="65%">
         <span class="inner-title">Time Discretization-Invariant Safe Action Repetition for Policy Gradient Methods</span>
         <br/>
         <a class="link-author" href="https://seohong.me/">Seohong Park</a>, <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
@@ -140,10 +143,10 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
       </td>
     </tr>
     <tr>
-      <td width="30%">
+      <td width="35%">
         <img src="/images/publications/ibol_thumbnail.jpg" />
       </td>
-      <td width="70%">
+      <td width="65%">
         <span class="inner-title">Unsupervised Skill Discovery with Bottleneck Option Learning</span>
         <br/>
         <a class="link-author" href="/"><strong>Jaekyeom Kim*</strong></a>, <a class="link-author" href="https://seohong.me/">Seohong Park*</a>, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a> (<strong>*equal contribution</strong>)
@@ -159,10 +162,10 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
       </td>
     </tr>
     <tr>
-      <td width="30%">
+      <td width="35%">
         <img src="/images/publications/db_thumbnail.jpg" />
       </td>
-      <td width="70%">
+      <td width="65%">
         <span class="inner-title">Drop-Bottleneck: Learning Discrete Compressed Representation for Noise-Robust Exploration</span>
         <br/>
         <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, <a class="link-author" href="https://minnjung.github.io/">Minjung Kim</a>, <a class="link-author" href="https://woody0325.github.io/">Dongyeon Woo</a>, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
@@ -177,10 +180,10 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
       </td>
     </tr>
     <tr>
-      <td width="30%">
+      <td width="35%">
         <img src="/images/publications/mabas_thumbnail.jpg" />
       </td>
-      <td width="70%">
+      <td width="65%">
         <span class="inner-title">Model-Agnostic Boundary-Adversarial Sampling for Test-Time Generalization in Few-Shot Learning</span>
         <br/>
         <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Hyoungseok Kim, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
@@ -195,10 +198,10 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
       </td>
     </tr>
     <tr>
-      <td width="30%">
+      <td width="35%">
         <img src="/images/publications/emi_thumbnail.jpg" />
       </td>
-      <td width="70%">
+      <td width="65%">
         <span class="inner-title">EMI: Exploration with Mutual Information</span>
         <br/>
         Hyoungseok Kim*, <a class="link-author" href="/"><strong>Jaekyeom Kim*</strong></a>, <a class="link-author" href="https://maestrojeong.github.io/">Yeonwoo Jeong</a>, <a class="link-author" href="http://people.eecs.berkeley.edu/~svlevine/">Sergey Levine</a>, <a class="link-author" href="http://mllab.snu.ac.kr/hyunoh/">Hyun Oh Song</a> (<strong>*equal contribution</strong>)
