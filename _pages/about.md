@@ -22,7 +22,7 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
   * B.S. in [Computer Science](https://cs.kaist.ac.kr/)
   * Graduated summa cum laude
 
-## Publications
+## Publications <small style="font-weight: normal;">(*: equal contribution)</small>
 
 <table class="no-border publication-list" style="border-spacing: 0 0.8em; border-collapse: separate;">
   <tbody>
@@ -33,7 +33,13 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
       <td width="65%">
         <span class="inner-title">AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents</span>
         <br/>
-        Yao Fu*, Dong-Ki Kim*, <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Sungryull Sohn, Lajanugen Logeswaran, Kyunghoon Bae, Honglak Lee
+        Yao Fu*,
+        <a class="link-author" href="https://dkkim93.github.io/">Dong-Ki Kim*</a>,
+        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>,
+        <a class="link-author" href="https://sites.google.com/view/sungryull">Sungryull Sohn</a>,
+        <a class="link-author" href="https://lajanugen.github.io/">Lajanugen Logeswaran</a>,
+        Kyunghoon Bae,
+        <a class="link-author" href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en">Honglak Lee</a>
         <br/>
         <i><strong>NeurIPS 2024</strong></i>
         <br/>
@@ -48,7 +54,11 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
       <td width="65%">
         <span class="inner-title">Auto-Intent: Automated Intent Discovery and Self-Exploration for Large Language Model Web Agents</span>
         <br/>
-        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Dong-Ki Kim, Lajanugen Logeswaran, Sungryull Sohn, Honglak Lee
+        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>,
+        <a class="link-author" href="https://dkkim93.github.io/">Dong-Ki Kim</a>,
+        <a class="link-author" href="https://lajanugen.github.io/">Lajanugen Logeswaran</a>,
+        <a class="link-author" href="https://sites.google.com/view/sungryull">Sungryull Sohn</a>,
+        <a class="link-author" href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en">Honglak Lee</a>
         <br/>
         <i><strong>EMNLP 2024 (Findings)</strong></i>
         <br/>
@@ -64,7 +74,15 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
       <td width="65%">
         <span class="inner-title">SkillAct: Using Skill Abstractions Improves LLM Agents</span>
         <br/>
-        Anthony Zhe Liu, Jongwook Choi, Sungryull Sohn, Yao Fu, <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Dong-Ki Kim, Xinhe Wang, Jaewon Yoo, Honglak Lee
+        Anthony Zhe Liu,
+        <a class="link-author" href="https://wook.kr/">Jongwook Choi*</a>,
+        <a class="link-author" href="https://sites.google.com/view/sungryull">Sungryull Sohn</a>,
+        Yao Fu,
+        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>,
+        <a class="link-author" href="https://dkkim93.github.io/">Dong-Ki Kim</a>,
+        Xinhe Wang,
+        Jaewon Yoo,
+        <a class="link-author" href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en">Honglak Lee</a>
         <br/>
         <i><strong>ICML 2024 Workshop on LLMs and Cognition</strong></i>
         <br/>
@@ -79,7 +97,13 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
       <td width="65%">
         <span class="inner-title">Small Language Models Need Strong Verifiers to Self-Correct Reasoning</span>
         <br/>
-        Yunxiang Zhang, Muhammad Khalifa, Lajanugen Logeswaran, <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Moontae Lee, Honglak Lee, Lu Wang
+        <a class="link-author" href="https://yunx-z.github.io/">Yunxiang Zhang</a>,
+        <a class="link-author" href="https://mukhal.github.io/">Muhammad Khalifa</a>,
+        <a class="link-author" href="https://lajanugen.github.io/">Lajanugen Logeswaran</a>,
+        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>,
+        <a class="link-author" href="https://moontae.people.uic.edu/">Moontae Lee</a>,
+        <a class="link-author" href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en">Honglak Lee</a>,
+        <a class="link-author" href="https://web.eecs.umich.edu/~wangluxy/">Lu Wang</a>
         <br/>
         <i><strong>ACL 2024 (Findings)</strong></i>
         <br/>
@@ -94,7 +118,9 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
       <td width="65%">
         <span class="inner-title">Constrained GPI for Zero-Shot Transfer in Reinforcement Learning</span>
         <br/>
-        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, <a class="link-author" href="https://seohong.me/">Seohong Park</a>, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
+        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>,
+        <a class="link-author" href="https://seohong.me/">Seohong Park</a>,
+        <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
         <br/>
         <i><strong>NeurIPS 2022</strong></i>
         <br/>
@@ -112,7 +138,11 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
       <td width="65%">
         <span class="inner-title">Lipschitz-constrained Unsupervised Skill Discovery</span>
         <br/>
-        <a class="link-author" href="https://seohong.me/">Seohong Park</a>, <a class="link-author" href="https://wook.kr/">Jongwook Choi*</a>, <a class="link-author" href="/"><strong>Jaekyeom Kim*</strong></a>, <a class="link-author" href="https://web.eecs.umich.edu/~honglak/">Honglak Lee</a>, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a> (<strong>*equal contribution</strong>)
+        <a class="link-author" href="https://seohong.me/">Seohong Park</a>,
+        <a class="link-author" href="https://wook.kr/">Jongwook Choi*</a>,
+        <a class="link-author" href="/"><strong>Jaekyeom Kim*</strong></a>,
+        <a class="link-author" href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en">Honglak Lee</a>
+        <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
         <br/>
         <i><strong>ICLR 2022</strong></i>
         <br/>
@@ -130,7 +160,9 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
       <td width="65%">
         <span class="inner-title">Time Discretization-Invariant Safe Action Repetition for Policy Gradient Methods</span>
         <br/>
-        <a class="link-author" href="https://seohong.me/">Seohong Park</a>, <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
+        <a class="link-author" href="https://seohong.me/">Seohong Park</a>,
+        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>,
+        <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
         <br/>
         <i><strong>NeurIPS 2021</strong></i>
         <br/>
@@ -149,7 +181,9 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
       <td width="65%">
         <span class="inner-title">Unsupervised Skill Discovery with Bottleneck Option Learning</span>
         <br/>
-        <a class="link-author" href="/"><strong>Jaekyeom Kim*</strong></a>, <a class="link-author" href="https://seohong.me/">Seohong Park*</a>, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a> (<strong>*equal contribution</strong>)
+        <a class="link-author" href="/"><strong>Jaekyeom Kim*</strong></a>,
+        <a class="link-author" href="https://seohong.me/">Seohong Park*</a>,
+        <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
         <br/>
         <i><strong>ICML 2021</strong></i>
         <br/>
@@ -168,7 +202,10 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
       <td width="65%">
         <span class="inner-title">Drop-Bottleneck: Learning Discrete Compressed Representation for Noise-Robust Exploration</span>
         <br/>
-        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, <a class="link-author" href="https://minnjung.github.io/">Minjung Kim</a>, <a class="link-author" href="https://woody0325.github.io/">Dongyeon Woo</a>, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
+        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>,
+        <a class="link-author" href="https://minnjung.github.io/">Minjung Kim</a>,
+        <a class="link-author" href="https://woody0325.github.io/">Dongyeon Woo</a>,
+        <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
         <br/>
         <i><strong>ICLR 2021</strong></i>
         <br/>
@@ -186,7 +223,9 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
       <td width="65%">
         <span class="inner-title">Model-Agnostic Boundary-Adversarial Sampling for Test-Time Generalization in Few-Shot Learning</span>
         <br/>
-        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>, Hyoungseok Kim, <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
+        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>,
+        Hyoungseok Kim,
+        <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
         <br/>
         <i><strong>ECCV 2020 (Oral)</strong></i>
         <br/>
@@ -204,7 +243,11 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
       <td width="65%">
         <span class="inner-title">EMI: Exploration with Mutual Information</span>
         <br/>
-        Hyoungseok Kim*, <a class="link-author" href="/"><strong>Jaekyeom Kim*</strong></a>, <a class="link-author" href="https://maestrojeong.github.io/">Yeonwoo Jeong</a>, <a class="link-author" href="http://people.eecs.berkeley.edu/~svlevine/">Sergey Levine</a>, <a class="link-author" href="http://mllab.snu.ac.kr/hyunoh/">Hyun Oh Song</a> (<strong>*equal contribution</strong>)
+        Hyoungseok Kim*,
+        <a class="link-author" href="/"><strong>Jaekyeom Kim*</strong></a>,
+        <a class="link-author" href="https://maestrojeong.github.io/">Yeonwoo Jeong</a>,
+        <a class="link-author" href="http://people.eecs.berkeley.edu/~svlevine/">Sergey Levine</a>,
+        <a class="link-author" href="http://mllab.snu.ac.kr/hyunoh/">Hyun Oh Song</a>
         <br/>
         <i><strong>ICML 2019 (Long talk)</strong></i>
         <br/>
