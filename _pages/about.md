@@ -277,10 +277,10 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
 ## Honors & Awards
 
 * PhD Dissertation Award <small>(*Aug. 2023*, Dept. of Computer Science and Engineering, Seoul National University)</small>
-* Star Student Researcher Award <small>(*Feb. 2023*, Brain Korea (BK21) FOUR Intelligence Computing, Seoul National University)</small>
+* Star Student Researcher Award <small>(*Feb. 2023*, BK21 Intelligence Computing, Seoul National University)</small>
 * Youlchon AI Star Fellowship <small>(*Jul. 2022*, Youlchon Foundation)</small>
 * Naver PhD Fellowship <small>(*Dec. 2021*, Naver)</small>
-* [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/) - Area: Machine Learning <small>(*Sep. 2021*, Google)</small>
+* **[Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/)** - Area: Machine Learning <small>(*Sep. 2021*, Google)</small>
 * [Samsung Humantech Paper Award](https://humantech.samsung.com/saitext/index.jsp) - Silver Prize in Signal Processing <small>(*Feb. 2021*, Samsung Electronics)</small>
 * [Qualcomm Innovation Fellowship Korea](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners) <small>(*Dec. 2020*, Qualcomm AI Research)</small>
 * [On-Dream Outstanding Scholar Award](https://www.cmkfoundation-scholarship.org/) <small>(*Dec. 2020*, Hyundai Motor Chung Mong-Koo Foundation)</small>
