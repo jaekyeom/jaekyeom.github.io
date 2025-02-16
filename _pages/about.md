@@ -10,7 +10,6 @@ redirect_from:
 
 Hello! I am a Researcher in Advanced Agent Lab at <a class="link-uncolored" href="https://lgresearch.ai/">LG AI Research (Ann Arbor, Michigan)</a>, working with Prof. [Honglak Lee](https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en).
 I received my PhD in <a class="link-uncolored" href="https://cse.snu.ac.kr/en">Computer Science</a> at <a class="link-uncolored" href="http://en.snu.ac.kr/">Seoul National University</a> (advisors: Prof. [Gunhee Kim](https://vision.snu.ac.kr/gunhee/) and Prof. [Hyun Oh Song](http://mllab.snu.ac.kr/hyunoh/)).
-During my PhD, I was honored to receive the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients/), along with several other recognitions for my research.
 
 My research interests mainly lie in LLM and multimodal agents for decision-making in challenging, real-world tasks by leveraging large-scale data and knowledge in foundation models.
 
