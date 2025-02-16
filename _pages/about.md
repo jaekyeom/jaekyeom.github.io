@@ -13,7 +13,7 @@ I received my PhD in [Computer Science](https://cse.snu.ac.kr/en) at [Seoul Nati
 
 My research interests mainly lie in LLM and multimodal agents for decision-making in challenging, real-world tasks by leveraging large-scale data and knowledge in foundation models.
 
-## Professional Experience
+## Selected Professional Experiences
 
 * [LG AI Research (Ann Arbor, Michigan)](https://lgresearch.ai/) <small>(*Aug. 2023 - Present*)</small>
   * Researcher in Advanced Agent Lab
