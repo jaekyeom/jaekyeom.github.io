@@ -13,14 +13,11 @@ Before that, I received my PhD in [Computer Science and Engineering](https://cse
 
 My research interests mainly lie in LLM and multimodal agents for decision-making in challenging, real-world tasks by leveraging large-scale data and knowledge in foundation models.
 
-## Education
+## Professional Experience
 
-* [Seoul National University (SNU)](http://en.snu.ac.kr/) <small>(*Mar. 2018 - Aug. 2023*)</small>
-  * M.S./Ph.D. in [Computer Science and Engineering](https://cse.snu.ac.kr/en)
-  * Advisor: Professor [Gunhee Kim](https://vision.snu.ac.kr/gunhee/) and Professor [Hyun Oh Song](http://mllab.snu.ac.kr/hyunoh/)
-* [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) <small>(*Feb. 2010 - Jun. 2017*)</small>
-  * B.S. in [Computer Science](https://cs.kaist.ac.kr/)
-  * Graduated summa cum laude
+* [LG AI Research, Ann Arbor](https://lgresearch.ai/) <small>(*Aug. 2023 - Present*)</small>
+  * Researcher
+  * Manager: Professor [Honglak Lee](https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en)
 
 ## Publications <small style="font-weight: normal;">(*: equal contribution)</small>
 
@@ -274,3 +271,13 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
 * [On-Dream Future Talent Graduate Scholarship](https://www.cmkfoundation-scholarship.org/) <small>(*Jul. 2020*, Hyundai Motor Chung Mong-Koo Foundation)</small>
 * [Kwanjeong Domestic Scholarship](http://www.ikef.or.kr/) <small>(*Apr. 2018*, Kwanjeong Educational Foundation)</small>
 * Summa Cum Laude Honor <small>(*Feb. 2018*, Korea Advanced Institute of Science and Technology)</small>
+
+## Education
+
+* [Seoul National University (SNU)](http://en.snu.ac.kr/) <small>(*Mar. 2018 - Aug. 2023*)</small>
+  * M.S./Ph.D. in [Computer Science and Engineering](https://cse.snu.ac.kr/en)
+  * Advisor: Professor [Gunhee Kim](https://vision.snu.ac.kr/gunhee/) and Professor [Hyun Oh Song](http://mllab.snu.ac.kr/hyunoh/)
+* [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) <small>(*Feb. 2010 - Jun. 2017*)</small>
+  * B.S. in [Computer Science](https://cs.kaist.ac.kr/)
+  * Graduated summa cum laude
+
