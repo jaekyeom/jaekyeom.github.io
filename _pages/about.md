@@ -214,7 +214,7 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
         <a class="link-author" href="http://people.eecs.berkeley.edu/~svlevine/">Sergey Levine</a>,
         <a class="link-author" href="http://mllab.snu.ac.kr/hyunoh/">Hyun Oh Song</a>
         <br/>
-        <i><strong>ICML 2019 (Long talk)</strong></i>
+        <i><strong>ICML 2019 (Long talk: top ~4.6%)</strong></i>
         <br/>
         <a href="http://proceedings.mlr.press/v97/kim19a/kim19a.pdf">[paper]</a>
         <a href="http://proceedings.mlr.press/v97/kim19a/kim19a-supp.pdf">[supp]</a>
@@ -262,7 +262,7 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
         Hyoungseok Kim,
         <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
         <br/>
-        <i><strong>ECCV 2020 (Oral)</strong></i>
+        <i><strong>ECCV 2020 (Oral: top ~2%)</strong></i>
         <br/>
         <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460579.pdf">[paper]</a>
         <a href="https://drive.google.com/uc?id=1LhdzmuHBxOOoxrJYf9nR4pVOTOhyX_K4">[appx]</a>
