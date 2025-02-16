@@ -21,6 +21,8 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
 
 ## Publications <small style="font-weight: normal;">(*: equal contribution)</small>
 
+### Language and Multimodal Models and Agents
+
 <table class="no-border publication-list" style="border-spacing: 0 0.8em; border-collapse: separate;">
   <tbody>
     <tr>
@@ -108,6 +110,13 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
         <br/>
       </td>
     </tr>
+  </tbody>
+</table>
+
+### Reinforcement Learning and Skill Discovery
+
+<table class="no-border publication-list" style="border-spacing: 0 0.8em; border-collapse: separate;">
+  <tbody>
     <tr>
       <td width="35%">
         <img class="pub-thumbnail" src="/images/publications/cgpi_thumbnail.jpg" />
@@ -194,6 +203,35 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
     </tr>
     <tr>
       <td width="35%">
+        <img class="pub-thumbnail" src="/images/publications/emi_thumbnail.jpg" />
+      </td>
+      <td width="65%">
+        <span class="inner-title">EMI: Exploration with Mutual Information</span>
+        <br/>
+        Hyoungseok Kim*,
+        <a class="link-author" href="/"><strong>Jaekyeom Kim*</strong></a>,
+        <a class="link-author" href="https://maestrojeong.github.io/">Yeonwoo Jeong</a>,
+        <a class="link-author" href="http://people.eecs.berkeley.edu/~svlevine/">Sergey Levine</a>,
+        <a class="link-author" href="http://mllab.snu.ac.kr/hyunoh/">Hyun Oh Song</a>
+        <br/>
+        <i><strong>ICML 2019 (Long talk)</strong></i>
+        <br/>
+        <a href="http://proceedings.mlr.press/v97/kim19a/kim19a.pdf">[paper]</a>
+        <a href="http://proceedings.mlr.press/v97/kim19a/kim19a-supp.pdf">[supp]</a>
+        <a href="https://arxiv.org/abs/1810.01176">[arxiv]</a>
+        <a href="https://www.videoken.com/embed/v-W4JSWUX28?tocitem=61">[talk]</a>
+        <a href="/projects/emi/">[code]</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Generalization and Robustness
+
+<table class="no-border publication-list" style="border-spacing: 0 0.8em; border-collapse: separate;">
+  <tbody>
+    <tr>
+      <td width="35%">
         <img class="pub-thumbnail" src="/images/publications/db_thumbnail.jpg" />
       </td>
       <td width="65%">
@@ -231,28 +269,6 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
         <a href="https://www.youtube.com/watch?v=XueZpAMsaOU">[talk]</a>
         <a href="/projects/mabas/">[code]</a>
         <br/>
-      </td>
-    </tr>
-    <tr>
-      <td width="35%">
-        <img class="pub-thumbnail" src="/images/publications/emi_thumbnail.jpg" />
-      </td>
-      <td width="65%">
-        <span class="inner-title">EMI: Exploration with Mutual Information</span>
-        <br/>
-        Hyoungseok Kim*,
-        <a class="link-author" href="/"><strong>Jaekyeom Kim*</strong></a>,
-        <a class="link-author" href="https://maestrojeong.github.io/">Yeonwoo Jeong</a>,
-        <a class="link-author" href="http://people.eecs.berkeley.edu/~svlevine/">Sergey Levine</a>,
-        <a class="link-author" href="http://mllab.snu.ac.kr/hyunoh/">Hyun Oh Song</a>
-        <br/>
-        <i><strong>ICML 2019 (Long talk)</strong></i>
-        <br/>
-        <a href="http://proceedings.mlr.press/v97/kim19a/kim19a.pdf">[paper]</a>
-        <a href="http://proceedings.mlr.press/v97/kim19a/kim19a-supp.pdf">[supp]</a>
-        <a href="https://arxiv.org/abs/1810.01176">[arxiv]</a>
-        <a href="https://www.videoken.com/embed/v-W4JSWUX28?tocitem=61">[talk]</a>
-        <a href="/projects/emi/">[code]</a>
       </td>
     </tr>
   </tbody>
