@@ -132,7 +132,8 @@
 
 .author__urls-wrapper {
   position: relative;
-  display: table-cell;
+  // display: table-cell;
+  display: block;
   vertical-align: middle;
   font-family: $sans-serif;
   z-index: 10;
@@ -159,8 +160,8 @@
 }
 
 .author__urls {
-  display: none;
-  position: absolute;
+  // display: none;
+  // position: absolute;
   right: 0;
   margin-top: 15px;
   padding: 10px;
@@ -218,6 +219,11 @@
 
   li {
     white-space: nowrap;
+    display: inline-block;
+
+    @include breakpoint($large) {
+      display: list-item;
+    }
   }
 
   a {
