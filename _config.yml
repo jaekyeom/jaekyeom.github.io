@@ -97,7 +97,8 @@ author:
   #avatar           : "profile_jaekyeom_animated.gif"
   #bio              : "Graduate student at SNU Vision & Learning Lab"
   #bio              : "Postdoctoral researcher at LG AI Research Center, Ann Arbor"
-  bio              : "Researcher at LG AI Research Center, Ann Arbor"
+  #bio              : "Researcher at LG AI Research Center, Ann Arbor"
+  bio              : "Researcher | Advanced Agent Lab, LG AI Research"
   #location         : "Seoul, Korea"
   location         : "Ann Arbor, Michigan"
   employer         :
