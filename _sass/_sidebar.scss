@@ -220,9 +220,11 @@
   li {
     white-space: nowrap;
     display: inline-block;
+    margin-right: 10px;
 
     @include breakpoint($large) {
       display: list-item;
+      margin-right: 0px;
     }
   }
 
