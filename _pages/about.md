@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a researcher working with Professor [Honglak Lee](https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en) at [LG AI Research](https://lgresearch.ai/) Center, Ann Arbor.
-Before that, I received my PhD in [Computer Science and Engineering](https://cse.snu.ac.kr/en) at [Seoul National University](http://en.snu.ac.kr/) and worked as a member of [Vision & Learning Lab](https://vision.snu.ac.kr/).
+Hello! I am a Researcher in Advanced Agent Lab at LG AI Research (Ann Arbor, Michigan), working with Prof. [Honglak Lee](https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en).
+I received my PhD in [Computer Science](https://cse.snu.ac.kr/en) at [Seoul National University](http://en.snu.ac.kr/) (advisors: Prof. [Gunhee Kim](https://vision.snu.ac.kr/gunhee/) and Prof. [Hyun Oh Song](http://mllab.snu.ac.kr/hyunoh/))
 
 My research interests mainly lie in LLM and multimodal agents for decision-making in challenging, real-world tasks by leveraging large-scale data and knowledge in foundation models.
 
 ## Professional Experience
 
-* [LG AI Research, Ann Arbor](https://lgresearch.ai/) <small>(*Aug. 2023 - Present*)</small>
+* [LG AI Research (Ann Arbor, Michigan)](https://lgresearch.ai/) <small>(*Aug. 2023 - Present*)</small>
   * Researcher in Advanced Agent Lab
-  * Manager: Professor [Honglak Lee](https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en)
+  * Manager: Prof. [Honglak Lee](https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en)
 
 ## Publications <small style="font-weight: normal;">(*: equal contribution)</small>
 
@@ -276,7 +276,7 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
 
 * [Seoul National University (SNU)](http://en.snu.ac.kr/) <small>(*Mar. 2018 - Aug. 2023*)</small>
   * M.S./Ph.D. in [Computer Science and Engineering](https://cse.snu.ac.kr/en)
-  * Advisor: Professor [Gunhee Kim](https://vision.snu.ac.kr/gunhee/) and Professor [Hyun Oh Song](http://mllab.snu.ac.kr/hyunoh/)
+  * Advisors: Prof. [Gunhee Kim](https://vision.snu.ac.kr/gunhee/) and Prof. [Hyun Oh Song](http://mllab.snu.ac.kr/hyunoh/)
 * [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) <small>(*Feb. 2010 - Jun. 2017*)</small>
   * B.S. in [Computer Science](https://cs.kaist.ac.kr/)
   * Graduated summa cum laude
