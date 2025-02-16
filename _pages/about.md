@@ -16,7 +16,7 @@ My research interests mainly lie in LLM and multimodal agents for decision-makin
 ## Professional Experience
 
 * [LG AI Research, Ann Arbor](https://lgresearch.ai/) <small>(*Aug. 2023 - Present*)</small>
-  * Researcher
+  * Researcher in Advanced Agent Lab
   * Manager: Professor [Honglak Lee](https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en)
 
 ## Publications <small style="font-weight: normal;">(*: equal contribution)</small>
