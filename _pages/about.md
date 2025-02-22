@@ -27,6 +27,30 @@ My research interests mainly lie in building capable AI agents for decision-maki
   <tbody>
     <tr>
       <td width="35%">
+        Our large-scale analysis with our AI agent suggests that <strong>~80%</strong> of the popular datasets with commercially permissive licenses are, in fact, <strong>not</strong> likely commercially viable due to how those datasets were constructed.
+      </td>
+      <td width="65%">
+        <span class="inner-title">Do Not Trust Licenses You See—Dataset Compliance Requires Massive-Scale AI-Powered Lifecycle Tracing</span>
+        <br/>
+        <a class="link-author" href="/"><strong>Jaekyeom Kim*</strong></a>,
+        <a class="link-author" href="https://sites.google.com/view/sungryull">Sungryull Sohn*</a>,
+        Gerrard Jeongwon Jo,
+        Jihoon Choi,
+        Kyunghoon Bae,
+        Hwayoung Lee,
+        Yongmin Park,
+        <a class="link-author" href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en">Honglak Lee</a>
+        <br/>
+        <i><strong>Preprint</strong></i>
+        <br/>
+        <a href="https://nexus.lgresearch.ai/go-to-paper">[paper]</a>
+        <a href="https://x.com/Jaekyeom__Kim/status/1893111034472472976">[post]</a>
+        <a href="https://nexus.lgresearch.ai">[project]</a>
+        <br/>
+      </td>
+    </tr>
+    <tr>
+      <td width="35%">
         <img class="pub-thumbnail" src="/images/publications/autoguide_thumbnail.jpg" />
       </td>
       <td width="65%">
