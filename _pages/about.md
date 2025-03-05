@@ -43,7 +43,7 @@ My research interests mainly lie in building capable AI agents for decision-maki
         <br/>
         <i><strong>Preprint</strong></i>
         <br/>
-        <a href="https://nexus.lgresearch.ai/go-to-paper">[paper]</a>
+        <a href="https://arxiv.org/abs/2503.02784">[arxiv]</a>
         <a href="https://x.com/Jaekyeom__Kim/status/1893111034472472976">[post]</a>
         <a href="https://nexus.lgresearch.ai">[project]</a>
         <br/>
