@@ -30,7 +30,7 @@ My research interests mainly lie in building capable AI agents for decision-maki
         Our large-scale analysis with our AI agent suggests that <strong>~80%</strong> of the popular datasets with commercially permissive licenses are, in fact, <strong>not</strong> likely commercially viable due to how those datasets were constructed.
       </td>
       <td width="65%">
-        <span class="inner-title">Do Not Trust Licenses You See—Dataset Compliance Requires Massive-Scale AI-Powered Lifecycle Tracing</span>
+        <span class="inner-title">Do Not Trust Licenses You See: Dataset Compliance Requires Massive-Scale AI-Powered Lifecycle Tracing</span>
         <br/>
         <a class="link-author" href="/"><strong>Jaekyeom Kim*</strong></a>,
         <a class="link-author" href="https://sites.google.com/view/sungryull">Sungryull Sohn*</a>,
