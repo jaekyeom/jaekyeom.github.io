@@ -51,6 +51,27 @@ My research interests mainly lie in building capable AI agents for decision-maki
     </tr>
     <tr>
       <td width="35%">
+      </td>
+      <td width="65%">
+        <span class="inner-title">Interactive and Expressive Code-Augmented Planning with Large Language Models</span>
+        <br/>
+        Anthony Z. Liu,
+        Xinhe Wang,
+        Jacob Sansom,
+        Yao Fu,
+        <a class="link-author" href="https://wook.kr/">Jongwook Choi</a>,
+        <a class="link-author" href="https://sites.google.com/view/sungryull">Sungryull Sohn</a>,
+        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>,
+        <a class="link-author" href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en">Honglak Lee</a>
+        <br/>
+        <i><strong>Preprint</strong></i>
+        <br/>
+        <a href="https://arxiv.org/abs/2411.13826">[arxiv]</a>
+        <br/>
+      </td>
+    </tr>
+    <tr>
+      <td width="35%">
         <img class="pub-thumbnail" src="/images/publications/autoguide_thumbnail.jpg" />
       </td>
       <td width="65%">
@@ -97,8 +118,8 @@ My research interests mainly lie in building capable AI agents for decision-maki
       <td width="65%">
         <span class="inner-title">SkillAct: Using Skill Abstractions Improves LLM Agents</span>
         <br/>
-        Anthony Zhe Liu,
-        <a class="link-author" href="https://wook.kr/">Jongwook Choi*</a>,
+        Anthony Z. Liu,
+        <a class="link-author" href="https://wook.kr/">Jongwook Choi</a>,
         <a class="link-author" href="https://sites.google.com/view/sungryull">Sungryull Sohn</a>,
         Yao Fu,
         <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>,
