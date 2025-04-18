@@ -36,14 +36,16 @@
       {% if author.email %}
         {% comment %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
-        {% endcomment %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email }}</a></li>
+        {% endcomment %}
+        <li><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email }}</li>
       {% endif %}
       {% if author.email_2 %}
         {% comment %}
         <li><a href="mailto:{{ author.email_2 }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email_2" }}</a></li>
-        {% endcomment %}
         <li><a href="mailto:{{ author.email_2 }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email_2 }}</a></li>
+        {% endcomment %}
+        <li><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email_2 }}</li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
