@@ -104,10 +104,10 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=8PR-AaoAAAAJ"
-  #email            : "jaekyeom __AT__ snu.ac.kr"
-  #email            : "jaekyeom __AT__ vision.snu.ac.kr"
-  email            : "jaekyeom __AT__ lgresearch.ai"
-  email_2          : "jaekyeom.ai __AT__ gmail.com"
+  #email            : "jaekyeom AT snu.ac.kr"
+  #email            : "jaekyeom AT vision.snu.ac.kr"
+  email            : "jaekyeom AT lgresearch.ai"
+  email_2          : "jaekyeom.ai AT gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
