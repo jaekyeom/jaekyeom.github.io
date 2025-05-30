@@ -107,7 +107,7 @@ My research interests mainly lie in building capable AI agents for decision-maki
         <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>,
         <a class="link-author" href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en">Honglak Lee</a>
         <br/>
-        <i><strong>Preprint</strong></i>
+        <i><strong>ACL 2025 (accepted)</strong></i>
         <br/>
         <a href="https://arxiv.org/abs/2411.13826">[arxiv]</a>
         <br/>
