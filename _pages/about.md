@@ -235,7 +235,7 @@ My research interests mainly lie in building capable AI agents for decision-maki
         <a class="link-author" href="https://seohong.me/">Seohong Park</a>,
         <a class="link-author" href="https://wook.kr/">Jongwook Choi*</a>,
         <a class="link-author" href="/"><strong>Jaekyeom Kim*</strong></a>,
-        <a class="link-author" href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en">Honglak Lee</a>
+        <a class="link-author" href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en">Honglak Lee</a>,
         <a class="link-author" href="https://vision.snu.ac.kr/gunhee/">Gunhee Kim</a>
         <br/>
         <i><strong>ICLR 2022</strong></i>
