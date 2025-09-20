@@ -29,6 +29,28 @@ My research interests mainly lie in building capable AI agents for decision-maki
       <td width="35%">
       </td>
       <td width="65%">
+        <span class="inner-title">MLRC-Bench: Can Language Agents Solve Machine Learning Research Challenges?</span>
+        <br/>
+        <a class="link-author" href="https://yunx-z.github.io/">Yunxiang Zhang</a>,
+        <a class="link-author" href="https://mukhal.github.io/">Muhammad Khalifa</a>,
+        Shitanshu Bhushan,
+        Grant D Murphy,
+        <a class="link-author" href="https://lajanugen.github.io/">Lajanugen Logeswaran</a>,
+        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>,
+        <a class="link-author" href="https://moontae.people.uic.edu/">Moontae Lee</a>,
+        <a class="link-author" href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en">Honglak Lee</a>,
+        <a class="link-author" href="https://web.eecs.umich.edu/~wangluxy/">Lu Wang</a>
+        <br/>
+        <i><strong>NeurIPS 2025 Datasets and Benchmarks Track (accepted)</strong></i>
+        <br/>
+        <a href="https://arxiv.org/abs/2504.09702">[arxiv]</a>
+        <br/>
+      </td>
+    </tr>
+    <tr>
+      <td width="35%">
+      </td>
+      <td width="65%">
         <span class="inner-title">Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation</span>
         <br/>
         <a class="link-author" href="https://lajanugen.github.io/">Lajanugen Logeswaran</a>,
@@ -37,8 +59,9 @@ My research interests mainly lie in building capable AI agents for decision-maki
         <a class="link-author" href="https://scholar.google.com/citations?user=rilOKuUAAAAJ&hl=en">Creighton Glasscock</a>,
         <a class="link-author" href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en">Honglak Lee</a>,
         <br/>
-        <i><strong>COLM 2025 (accepted)</strong></i>
+        <i><strong>COLM 2025</strong></i>
         <br/>
+        <a href="https://openreview.net/pdf?id=63JtmQL7dv">[paper]</a>
         <br/>
       </td>
     </tr>
@@ -57,7 +80,7 @@ My research interests mainly lie in building capable AI agents for decision-maki
         <a class="link-author" href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en">Honglak Lee</a>,
         <a class="link-author" href="https://web.eecs.umich.edu/~wangluxy/">Lu Wang</a>
         <br/>
-        <i><strong>Preprint</strong></i>
+        <i><strong>Workshop on Test-time Scaling and Reasoning Models at COLM 2025</strong></i>
         <br/>
         <a href="https://arxiv.org/abs/2504.16828">[arxiv]</a>
         <br/>
@@ -67,21 +90,20 @@ My research interests mainly lie in building capable AI agents for decision-maki
       <td width="35%">
       </td>
       <td width="65%">
-        <span class="inner-title">MLRC-Bench: Can Language Agents Solve Machine Learning Research Challenges?</span>
+        <span class="inner-title">Beyond Blind Following: Evaluating Robustness of LLM Agents under Imperfect Guidance</span>
         <br/>
-        <a class="link-author" href="https://yunx-z.github.io/">Yunxiang Zhang</a>,
-        <a class="link-author" href="https://mukhal.github.io/">Muhammad Khalifa</a>,
-        Shitanshu Bhushan,
-        Grant D Murphy,
-        <a class="link-author" href="https://lajanugen.github.io/">Lajanugen Logeswaran</a>,
+        Yao Fu,
+        Ran Qiu,
+        Xinhe Wang,
+        Jacob Sansom,
+        Sathvika Ayyappa Prabhu,
+        Huijie Tang,
         <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>,
-        <a class="link-author" href="https://moontae.people.uic.edu/">Moontae Lee</a>,
-        <a class="link-author" href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en">Honglak Lee</a>,
-        <a class="link-author" href="https://web.eecs.umich.edu/~wangluxy/">Lu Wang</a>
+        <a class="link-author" href="https://sites.google.com/view/sungryull">Sungryull Sohn</a>,
+        <a class="link-author" href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en">Honglak Lee</a>
         <br/>
-        <i><strong>Preprint</strong></i>
+        <i><strong>Workshop on AI Agents: Capabilities and Safety at COLM 2025</strong></i>
         <br/>
-        <a href="https://arxiv.org/abs/2504.09702">[arxiv]</a>
         <br/>
       </td>
     </tr>
@@ -124,8 +146,9 @@ My research interests mainly lie in building capable AI agents for decision-maki
         <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>,
         <a class="link-author" href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en">Honglak Lee</a>
         <br/>
-        <i><strong>ACL 2025 (accepted)</strong></i>
+        <i><strong>ACL 2025</strong></i>
         <br/>
+        <a href="https://aclanthology.org/2025.acl-long.994.pdf">[paper]</a>
         <a href="https://arxiv.org/abs/2411.13826">[arxiv]</a>
         <br/>
       </td>
@@ -147,6 +170,7 @@ My research interests mainly lie in building capable AI agents for decision-maki
         <br/>
         <i><strong>NeurIPS 2024</strong></i>
         <br/>
+        <a href="https://papers.nips.cc/paper_files/paper/2024/file/d8efbb5dd415974eb095c3f06bff1f48-Paper-Conference.pdf">[paper]</a>
         <a href="https://arxiv.org/abs/2403.08978">[arxiv]</a>
         <br/>
       </td>
@@ -166,6 +190,7 @@ My research interests mainly lie in building capable AI agents for decision-maki
         <br/>
         <i><strong>EMNLP 2024 (Findings)</strong></i>
         <br/>
+        <a href="https://aclanthology.org/2024.findings-emnlp.964.pdf">[paper]</a>
         <a href="https://arxiv.org/abs/2410.22552">[arxiv]</a>
         <a href="/projects/auto-intent-poster.pdf">[poster]</a>
         <br/>
@@ -211,6 +236,7 @@ My research interests mainly lie in building capable AI agents for decision-maki
         <br/>
         <i><strong>ACL 2024 (Findings)</strong></i>
         <br/>
+        <a href="https://aclanthology.org/2024.findings-acl.924.pdf">[paper]</a>
         <a href="https://arxiv.org/abs/2404.17140">[arxiv]</a>
         <br/>
       </td>
