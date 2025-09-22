@@ -422,7 +422,7 @@ My research interests mainly lie in building capable AI agents for decision-maki
 ## Education
 
 * [Seoul National University (SNU)](http://en.snu.ac.kr/) <small>(*Mar. 2018 - Aug. 2023*)</small>
-  * M.S./Ph.D. in [Computer Science and Engineering](https://cse.snu.ac.kr/en)
+  * PhD in [Computer Science and Engineering](https://cse.snu.ac.kr/en)
   * Advisors: Prof. [Gunhee Kim](https://vision.snu.ac.kr/gunhee/) and Prof. [Hyun Oh Song](http://mllab.snu.ac.kr/hyunoh/)
 * [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) <small>(*Feb. 2010 - Jun. 2017*)</small>
   * B.S. in [Computer Science](https://cs.kaist.ac.kr/)
