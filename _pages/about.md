@@ -57,7 +57,7 @@ My research interests mainly lie in building capable AI agents for decision-maki
         <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>,
         <a class="link-author" href="https://sites.google.com/view/sungryull">Sungryull Sohn</a>,
         <a class="link-author" href="https://scholar.google.com/citations?user=rilOKuUAAAAJ&hl=en">Creighton Glasscock</a>,
-        <a class="link-author" href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en">Honglak Lee</a>,
+        <a class="link-author" href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en">Honglak Lee</a>
         <br/>
         <i><strong>COLM 2025</strong></i>
         <br/>
