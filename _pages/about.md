@@ -29,6 +29,28 @@ My research interests mainly lie in building capable AI agents for decision-maki
       <td width="35%">
       </td>
       <td width="65%">
+        <span class="inner-title">Gaming the Judge: Unfaithful Chain-of-Thought Can Undermine Agent Evaluation</span>
+        <br/>
+        <a class="link-author" href="https://mukhal.github.io/">Muhammad Khalifa</a>,
+        <a class="link-author" href="https://lajanugen.github.io/">Lajanugen Logeswaran</a>,
+        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>,
+        <a class="link-author" href="https://sites.google.com/view/sungryull">Sungryull Sohn</a>,
+        <a class="link-author" href="https://yunx-z.github.io/">Yunxiang Zhang</a>,
+        <a class="link-author" href="https://moontae.people.uic.edu/">Moontae Lee</a>,
+        <a class="link-author" href="https://haopeng-nlp.github.io/">Hao Peng</a>,
+        <a class="link-author" href="https://web.eecs.umich.edu/~wangluxy/">Lu Wang</a>,
+        <a class="link-author" href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en">Honglak Lee</a>
+        <br/>
+        <i><strong>Preprint</strong></i>
+        <br/>
+        <a href="https://arxiv.org/abs/2601.14691">[arxiv]</a>
+        <br/>
+      </td>
+    </tr>
+    <tr>
+      <td width="35%">
+      </td>
+      <td width="65%">
         <span class="inner-title">Towards Minimal Fine-Tuning of VLMs</span>
         <br/>
         <a class="link-author" href="https://tiangeluo.github.io/">Tiange Luo</a>,
