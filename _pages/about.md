@@ -29,6 +29,27 @@ My research interests mainly lie in building capable AI agents for decision-maki
       <td width="35%">
       </td>
       <td width="65%">
+        <span class="inner-title">Process Reward Models That Think</span>
+        <br/>
+        <a class="link-author" href="https://mukhal.github.io/">Muhammad Khalifa</a>,
+        Rishabh Agarwal,
+        <a class="link-author" href="https://lajanugen.github.io/">Lajanugen Logeswaran</a>,
+        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>,
+        <a class="link-author" href="https://haopeng-nlp.github.io/">Hao Peng</a>,
+        <a class="link-author" href="https://moontae.people.uic.edu/">Moontae Lee</a>,
+        <a class="link-author" href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en">Honglak Lee</a>,
+        <a class="link-author" href="https://web.eecs.umich.edu/~wangluxy/">Lu Wang</a>
+        <br/>
+        <i><strong>TMLR 2026 (accepted)</strong></i>
+        <br/>
+        <a href="https://arxiv.org/abs/2504.16828">[arxiv]</a>
+        <br/>
+      </td>
+    </tr>
+    <tr>
+      <td width="35%">
+      </td>
+      <td width="65%">
         <span class="inner-title">Gaming the Judge: Unfaithful Chain-of-Thought Can Undermine Agent Evaluation</span>
         <br/>
         <a class="link-author" href="https://mukhal.github.io/">Muhammad Khalifa</a>,
@@ -123,27 +144,6 @@ My research interests mainly lie in building capable AI agents for decision-maki
         <i><strong>COLM 2025</strong></i>
         <br/>
         <a href="https://openreview.net/pdf?id=63JtmQL7dv">[paper]</a>
-        <br/>
-      </td>
-    </tr>
-    <tr>
-      <td width="35%">
-      </td>
-      <td width="65%">
-        <span class="inner-title">Process Reward Models That Think</span>
-        <br/>
-        <a class="link-author" href="https://mukhal.github.io/">Muhammad Khalifa</a>,
-        Rishabh Agarwal,
-        <a class="link-author" href="https://lajanugen.github.io/">Lajanugen Logeswaran</a>,
-        <a class="link-author" href="/"><strong>Jaekyeom Kim</strong></a>,
-        <a class="link-author" href="https://haopeng-nlp.github.io/">Hao Peng</a>,
-        <a class="link-author" href="https://moontae.people.uic.edu/">Moontae Lee</a>,
-        <a class="link-author" href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en">Honglak Lee</a>,
-        <a class="link-author" href="https://web.eecs.umich.edu/~wangluxy/">Lu Wang</a>
-        <br/>
-        <i><strong>Workshop on Test-time Scaling and Reasoning Models at COLM 2025</strong></i>
-        <br/>
-        <a href="https://arxiv.org/abs/2504.16828">[arxiv]</a>
         <br/>
       </td>
     </tr>
