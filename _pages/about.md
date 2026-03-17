@@ -40,8 +40,9 @@ My research interests mainly lie in building capable AI agents for decision-maki
         <a class="link-author" href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en">Honglak Lee</a>,
         <a class="link-author" href="https://web.eecs.umich.edu/~wangluxy/">Lu Wang</a>
         <br/>
-        <i><strong>TMLR 2026 (accepted)</strong></i>
+        <i><strong>TMLR 2026</strong></i>
         <br/>
+        <a href="https://openreview.net/pdf?id=FPVCb0WMuN">[paper]</a>
         <a href="https://arxiv.org/abs/2504.16828">[arxiv]</a>
         <br/>
       </td>
@@ -102,7 +103,7 @@ My research interests mainly lie in building capable AI agents for decision-maki
         <a class="link-author" href="https://sites.google.com/view/sungryull">Sungryull Sohn</a>,
         <a class="link-author" href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en">Honglak Lee</a>
         <br/>
-        <i><strong>EACL 2026</strong></i>
+        <i><strong>EACL 2026 (to appear)</strong></i>
         <br/>
         <br/>
       </td>
@@ -123,7 +124,7 @@ My research interests mainly lie in building capable AI agents for decision-maki
         <a class="link-author" href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en">Honglak Lee</a>,
         <a class="link-author" href="https://web.eecs.umich.edu/~wangluxy/">Lu Wang</a>
         <br/>
-        <i><strong>NeurIPS 2025 Datasets and Benchmarks Track (accepted)</strong></i>
+        <i><strong>NeurIPS 2025 Datasets and Benchmarks Track</strong></i>
         <br/>
         <a href="https://arxiv.org/abs/2504.09702">[arxiv]</a>
         <br/>
