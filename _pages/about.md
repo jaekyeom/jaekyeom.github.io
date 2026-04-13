@@ -103,8 +103,9 @@ My research interests mainly lie in building capable AI agents for decision-maki
         <a class="link-author" href="https://sites.google.com/view/sungryull">Sungryull Sohn</a>,
         <a class="link-author" href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en">Honglak Lee</a>
         <br/>
-        <i><strong>EACL 2026 (to appear)</strong></i>
+        <i><strong>EACL 2026</strong></i>
         <br/>
+        <a href="https://aclanthology.org/2026.eacl-long.310.pdf">[paper]</a>
         <br/>
       </td>
     </tr>
